@@ -12,7 +12,7 @@ I pitched the idea to our VP who agreed only if we committed to being done in a 
 We restructured the HTML and Javascript to improve interactivity with minimal page reposts (remember this was pre-AJAX). We also improved the data access layer with caching and in some cases removed a "business layer" that had no purpose except to satisfy an idea of how many tiers an application should have.
 
 ## Design
-The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the [screens](./screens/Readme.md) folder for more samples but highlights include &hellip;
+The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the [screens](./screens/README.md) folder for more samples but highlights include &hellip;
 
 #### An always-visible, interactive cart
 ![Cart](./screens/Cart_Detail.png)
