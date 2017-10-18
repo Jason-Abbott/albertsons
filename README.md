@@ -12,7 +12,7 @@ I pitched the idea to our VP who agreed only if we committed to being done in a 
 We restructured the HTML and Javascript to improve interactivity with minimal page reposts (remember this was pre-AJAX). We also improved the data access layer with caching and in some cases removed a "business layer" that had no purpose except to satisfy an idea of how many tiers an application should have.
 
 ## Design
-The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the `screens` folder for more samples but highlights include &hellip;
+The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the [screens](./screens/Readme.md) folder for more samples but highlights include &hellip;
 
 #### An always-visible, interactive cart
 ![Cart](./screens/Cart_Detail.png)
@@ -25,11 +25,11 @@ The response to our update was hugely positive.
 
 ## From the Press
 
-> Compared to Safeway, Albertsons “has a much easier Web site to navigate. There are drop-down menus for finding items by either category or name, a much quicker solution than waiting for successive pages to load on the Safeway site.” &mdash; Mike Langberg, Mercury News, March 27, 2002
+> Compared to Safeway, Albertsons &ldquo;has a much easier Web site to navigate. There are drop-down menus for finding items by either category or name, a much quicker solution than waiting for successive pages to load on the Safeway site.&rdquo; &mdash; Mike Langberg, Mercury News, March 27, 2002
 
-> After placing orders from both sites, “I came to some obvious conclusions: Safeway needs to revamp its online presentation, borrowing ideas generously from the superior Albertsons site.” &mdash; Mike Langberg
+> After placing orders from both sites, &ldquo;I came to some obvious conclusions: Safeway needs to revamp its online presentation, borrowing ideas generously from the superior Albertsons site.&rdquo; &mdash; Mike Langberg
 
-> “This reporter decided to test the two Internet stores to see if they lived up to their billing. What I found are two polar opposites: one was relatively smooth, the other suffering an array of shortcomings … I had no choice but to declare Albertsons the winner in this competition”
+> &ldquo;This reporter decided to test the two Internet stores to see if they lived up to their billing. What I found are two polar opposites: one was relatively smooth, the other suffering an array of shortcomings &hellip; I had no choice but to declare Albertsons the winner in this competition&rdquo;
 &mdash; Verne Kopytoff, San Francisco Chronicle, May 20, 2002
 
 ## From Customers
@@ -83,13 +83,11 @@ Our customer service department forwarded all the feedback to our team, good and
 
 Ironically, when last I checked (2017), Albertsons had reverted more than a decade and was using the old Safeway shopping site we trounced long ago.
 
-That is because only a couple years after the redesign highlighted here, a new CTO brought in his associates who wanted to rebuild the site using their preferred software stack, for no business reason we were ever made aware of.
+That is because only a couple years after the redesign highlighted here, a new CTO brought in his associates who wanted to rebuild the site using their preferred software stack (for no business reason we were made aware of).
 
-We worked with that stack a while before all leaving en masse. It seemed super slow and convoluted, and for what? Millions of dollars and a few years later, that work was, unsurprisingly, defunct. But so was the successful site.
+Unfortunately, the new stack seemed slow and convoluted. And for what? We all ended up leaving. Millions of dollars and a few years later, that work was, unsurprisingly, defunct. But so was the successful site.
 
 When, after more years, Albertsons acquired Safeway, apparently their old commerce site was the best thing available.
-
-Sour grapes? Maybe. It was sad to throw away a great customer experience for the sake &hellip; hiring your friends?
 
 
 
