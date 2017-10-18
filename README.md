@@ -11,6 +11,9 @@ I pitched the idea to our VP who agreed only if we committed to being done in a 
 ## Architecture
 We restructured the HTML and Javascript to improve interactivity with minimal page reposts (remember this was pre-AJAX). We also improved the data access layer with caching and in some cases removed a "business layer" that had no purpose except to satisfy an idea of how many tiers an application should have.
 
+## Accessibility
+We learned we had a constituency of visually impaired customers who, for the first time, were able to grocery shop independently. That was very satisfying to hear. We also learned there was a lot we could improve for screen reading software so I dedicated one of our team members to writing custom pages as needed to make the best possible experience for those customers.
+
 ## Design
 The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the [screens](./screens/README.md) folder for more samples but highlights include &hellip;
 
