@@ -1,0 +1,1002 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: Adobe - The Great Render Race
+Date: Wed, 26 Mar 2003 09:59:30 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01C2F37E.6527C810";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.adobe.com/motion/pcpreferred.html?tag=nl
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Adobe - The Great Render Race</TITLE>
+<META http-equiv=3Dcontent-type =
+content=3Dtext/html;charset=3Diso-8859-1>
+<META content=3D"MSHTML 6.00.2800.1141" name=3DGENERATOR>
+<STYLE>BODY {
+	BACKGROUND-COLOR: white
+}
+</STYLE>
+<LINK href=3D"http://www.adobe.com/ssi/css/win_ie.css" rel=3Dstylesheet>
+<SCRIPT language=3DJavaScript><!--=0A=
+             function OpenWindow( url, width, height, options, name )=0A=
+             {=0A=
+             if ( ! width ) width =3D 640;=0A=
+             if ( ! height ) height =3D 420;=0A=
+             if ( ! options ) options =3D =
+"scrollbars=3Dyes,menubar=3Dyes,toolbar=3Dyes,location=3Dyes,status=3Dyes=
+,resizable=3Dyes";=0A=
+             if ( ! name ) name =3D "outsideSiteWindow";=0A=
+=0A=
+             var newWin =3D window.open( url, name, "width=3D" + width + =
+",height=3D" + height + "," + options );=0A=
+             }=0A=
+             // --></SCRIPT>
+</HEAD>
+<BODY vLink=3D#996666 aLink=3D#cc0000 leftMargin=3D0 topMargin=3D0 =
+MARGINHEIGHT=3D"0"=20
+MARGINWIDTH=3D"0"><A name=3Dtop></A><!--Start Product adobe.com =
+navBar--><!-- MSIE -->
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" bgColor=3D#000000=20
+background=3Dhttp://www.adobe.com/images/nav/navStripe.gif border=3D0>
+  <TBODY>
+  <TR bgColor=3D#000000>
+    <TD width=3D115><A href=3D"http://www.adobe.com/main.html"><IMG =
+height=3D80=20
+      alt=3DAdobe src=3D"http://www.adobe.com/images/adobelogo.gif" =
+width=3D115=20
+      border=3D0></A></TD>
+    <TD width=3D"100%" =
+background=3Dhttp://www.adobe.com/images/nav/navStripe.gif=20
+    bgColor=3D#000000>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D635 =
+bgColor=3D#000000 border=3D0>
+        <TBODY>
+        <TR bgColor=3D#000000 height=3D48>
+          <TD width=3D635 bgColor=3D#000000 height=3D48>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D605 =
+border=3D0>
+              <TBODY>
+              <TR bgColor=3D#000000 height=3D48>
+                <TD width=3D405 bgColor=3D#000000 height=3D48><IMG =
+height=3D48 alt=3D""=20
+                  =
+src=3D"http://www.adobe.com/images/nav/us_productMainNav.gif"=20
+                  width=3D405 useMap=3D#us_productMainNavMap =
+border=3D0></TD>
+                <TD width=3D230 bgColor=3D#000000 height=3D48><!--Start =
+ProfileStatus-->
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D230 =
+bgColor=3D#000000=20
+                  border=3D0>
+                    <TBODY>
+                    <TR bgColor=3D#000000 height=3D28>
+                      <TD vAlign=3Dbottom align=3Dright width=3D230 =
+bgColor=3D#000000=20
+                      height=3D28><SPAN =
+class=3Dsmallbody>&nbsp;</SPAN></TD></TR>
+                    <TR bgColor=3D#000000 height=3D20>
+                      <TD width=3D230 bgColor=3D#000000 height=3D20><IMG =
+height=3D20=20
+                        =
+src=3D"http://www.adobe.com/images/nav/store/us_storeProfileStatus_none.g=
+if"=20
+                        width=3D230 =
+useMap=3D#us_storeProfileStatus_noneMap=20
+                      border=3D0></TD></TR></TBODY></TABLE><!--End =
+ProfileStatus--><MAP=20
+                  name=3Dus_storeProfileStatus_noneMap><AREA =
+shape=3DRECT=20
+                    alt=3DSearch coords=3D82,1,126,15=20
+                    href=3D"http://www.adobe.com/search/main.html"><AREA =
+
+                    shape=3DRECT alt=3D"Contact us" =
+coords=3D134,2,199,15=20
+                    =
+href=3D"http://www.adobe.com/misc/comments.html"><AREA=20
+                    shape=3DRECT alt=3D"Check out cart" =
+coords=3D207,2,227,16=20
+                    =
+href=3D"http://www.adobe.com/store/checkout/cart.jhtml"></MAP></TD></TR><=
+/TBODY></TABLE></TD></TR>
+        <TR bgColor=3D#000000 height=3D32>
+          <TD width=3D635 height=3D32><IMG height=3D32 alt=3D""=20
+            src=3D"http://www.adobe.com/images/nav/us_productSubNav.gif" =
+width=3D635=20
+            useMap=3D#us_productSubNavMap=20
+  border=3D0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><MAP=20
+name=3Dus_productSubNavMap><AREA shape=3DRECT alt=3D"Acrobat family"=20
+  coords=3D11,1,101,13 =
+href=3D"http://www.adobe.com/acrofamily/main.html"><AREA=20
+  shape=3DRECT alt=3D"Server products" coords=3D112,1,208,13=20
+  href=3D"http://www.adobe.com/products/server/main.html"><AREA =
+shape=3DRECT=20
+  alt=3D"Digital imaging" coords=3D220,1,308,13=20
+  href=3D"http://www.adobe.com/digitalimag/main.html"><AREA shape=3DRECT =
+
+  alt=3D"Digital video" coords=3D321,1,395,13=20
+  href=3D"http://www.adobe.com/motion/main.html"><AREA shape=3DRECT=20
+  alt=3D"Print publishing" coords=3D11,16,102,30=20
+  href=3D"http://www.adobe.com/print/main.html"><AREA shape=3DRECT=20
+  alt=3D"Web publishing" coords=3D111,16,198,30=20
+  href=3D"http://www.adobe.com/web/main.html"><AREA shape=3DRECT =
+alt=3DDownloads=20
+  coords=3D211,16,276,30=20
+  href=3D"http://www.adobe.com/support/downloads/main.html"><AREA =
+shape=3DRECT=20
+  alt=3DTryouts coords=3D285,16,332,30=20
+  href=3D"http://www.adobe.com/products/tryadobe/main.jhtml"><AREA =
+shape=3DRECT=20
+  alt=3DRegistration coords=3D343,16,417,30=20
+  =
+href=3D"http://www.adobe.com/store/productregistration/options.jhtml"></M=
+AP><MAP=20
+name=3Dus_productMainNavMap><AREA shape=3DRECT alt=3DProducts =
+coords=3D13,28,76,43=20
+  href=3D"http://www.adobe.com/products/main.html"><AREA shape=3DRECT =
+alt=3DSupport=20
+  coords=3D99,28,162,43 =
+href=3D"http://www.adobe.com/support/main.html"><AREA=20
+  shape=3DRECT alt=3DPurchase coords=3D184,28,249,43=20
+  href=3D"http://www.adobe.com/store/main.jhtml"><AREA shape=3DRECT=20
+  alt=3D"Company info" coords=3D273,28,366,43=20
+  href=3D"http://www.adobe.com/aboutadobe/main.html"></MAP><!--End =
+Product adobe.com navBar-->
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D750 border=3D0>
+  <TBODY>
+  <TR>
+    <TD colSpan=3D4 height=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"10" =
+TYPE=3D"block"></TD></TR>
+  <TR>
+    <TD width=3D10 height=3D40><SPACER HEIGHT=3D"10" WIDTH=3D"10" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D570 height=3D40><!-- IMG =
+SRC=3D"images/pcprefers_hd.gif" WIDTH=3D"500" HEIGHT=3D"40" BORDER=3D"0" =
+ALT=3D"Adobe - The Great Render Race" --></TD>
+    <TD vAlign=3Dtop align=3Dright width=3D160 height=3D40></TD>
+    <TD width=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"10"=20
+TYPE=3D"block"></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D750 border=3D0>
+  <TBODY>
+  <TR height=3D10>
+    <TD vAlign=3Dtop width=3D15 height=3D10><SPACER HEIGHT=3D"10" =
+WIDTH=3D"15"=20
+      TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D165 height=3D10><SPACER HEIGHT=3D"10" =
+WIDTH=3D"165"=20
+      TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D20 height=3D10><SPACER HEIGHT=3D"10" =
+WIDTH=3D"20"=20
+      TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D258 height=3D10><SPACER HEIGHT=3D"10" =
+WIDTH=3D"258"=20
+      TYPE=3D"block"></TD>
+    <TD width=3D10 height=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"10" =
+TYPE=3D"block"></TD>
+    <TD width=3D1 height=3D10></TD>
+    <TD width=3D9 height=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"9" =
+TYPE=3D"block"></TD>
+    <TD width=3D258 height=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"258" =
+TYPE=3D"block"></TD>
+    <TD width=3D14 height=3D10><SPACER HEIGHT=3D"8" WIDTH=3D"14" =
+TYPE=3D"block"></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D15><SPACER HEIGHT=3D"10" WIDTH=3D"15" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D165><SPACER HEIGHT=3D"10" WIDTH=3D"165" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D20><SPACER HEIGHT=3D"10" WIDTH=3D"20" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D536 colSpan=3D5><SPAN class=3Dhead>The =
+great render=20
+      race</SPAN><BR><SPAN class=3Dbodytext>In the November 2002 issue =
+of Digital=20
+      Producer Magazine, Charlie White reported on a head-to-head duel =
+between a=20
+      single-processor Dell 3.06GHz Pentium=AE 4 and a 1.25GHz =
+dual-processor=20
+      Macintosh G4. The contest compared renderings of files created in =
+Adobe=AE=20
+      After Effects=AE, Illustrator=AE, and Photoshop=AE software that =
+are typical to=20
+      the video post-production workflow. The PC consistently =
+outperformed the=20
+      Macintosh machine, at an impressive rate. The graphs below show =
+the=20
+      results.</SPAN><BR><SPAN class=3Dbodytext><A=20
+      =
+onkeypress=3D"OpenWindow('http://www.adobe.com/cgi-bin/redirect?http://ww=
+w.digitalvideoediting.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews=
+/cw_macvspciii.htm'); return false"=20
+      title=3D"Open new window"=20
+      =
+onclick=3D"OpenWindow('http://www.adobe.com/cgi-bin/redirect?http://www.d=
+igitalvideoediting.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews/cw=
+_macvspciii.htm'); return false"=20
+      =
+href=3D"http://www.adobe.com/cgi-bin/redirect?http://www.digitalvideoedit=
+ing.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews/cw_macvspciii.htm=
+"=20
+      target=3D_new>Read the full text of Charlie White'<A=20
+      =
+onkeypress=3D"OpenWindow('http://www.adobe.com/cgi-bin/redirect?http://ww=
+w.digitalvideoediting.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews=
+/cw_macvspciii.htm'); return false"=20
+      title=3D"Open new window"=20
+      =
+onclick=3D"OpenWindow('http://www.adobe.com/cgi-bin/redirect?http://www.d=
+igitalvideoediting.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews/cw=
+_macvspciii.htm'); return false"=20
+      =
+href=3D"http://www.adobe.com/cgi-bin/redirect?http://www.digitalvideoedit=
+ing.com/cgi-bin/getframeletter.cgi?/2002/11_nov/reviews/cw_macvspciii.htm=
+"=20
+      target=3D_new>s article.</A></SPAN></A></TD>
+    <TD width=3D14><SPACER HEIGHT=3D"8" WIDTH=3D"14" =
+TYPE=3D"block"></TD></TR>
+  <TR height=3D20>
+    <TD vAlign=3Dtop width=3D750 colSpan=3D9 height=3D20><SPACER =
+HEIGHT=3D"20"=20
+      WIDTH=3D"15" TYPE=3D"block"></TD></TR>
+  <TR height=3D1>
+    <TD vAlign=3Dtop width=3D15 height=3D1></TD>
+    <TD width=3D165 height=3D1></TD>
+    <TD width=3D20 height=3D1></TD>
+    <TD width=3D536 =
+background=3Dhttp://www.adobe.com/products/images/1dot.gif=20
+    colSpan=3D5 height=3D1></TD>
+    <TD width=3D14 height=3D1></TD></TR>
+  <TR height=3D20>
+    <TD vAlign=3Dtop width=3D15 height=3D20><SPACER HEIGHT=3D"20" =
+WIDTH=3D"15"=20
+      TYPE=3D"block"></TD>
+    <TD width=3D165 height=3D20></TD>
+    <TD width=3D20 height=3D20></TD>
+    <TD width=3D258 height=3D20><SPAN class=3Dsmallbody>Data courtesy of =
+DMN -=20
+      DigitalMediaNet.com</SPAN></TD>
+    <TD width=3D10 height=3D20></TD>
+    <TD width=3D1 height=3D20></TD>
+    <TD width=3D9 height=3D20></TD>
+    <TD width=3D258 height=3D20></TD>
+    <TD width=3D14 height=3D20></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D15><SPACER HEIGHT=3D"10" WIDTH=3D"15" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D165><SPACER HEIGHT=3D"10" WIDTH=3D"165" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D20><SPACER HEIGHT=3D"10" WIDTH=3D"20" =
+TYPE=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D258>
+      <TABLE cellSpacing=3D2 cellPadding=3D0 border=3D0>
+        <TBODY></TBODY></TABLE>
+      <TABLE cellSpacing=3D2 cellPadding=3D0 border=3D0>
+        <TBODY>
+        <TR>
+          <TD width=3D250><IMG height=3D184 alt=3D""=20
+            =
+src=3D"http://www.adobe.com/motion/images/video_composite.gif"=20
+            width=3D250 border=3D0><BR></TD></TR>
+        <TR height=3D10>
+          <TD width=3D250 height=3D10></TD></TR>
+        <TR height=3D133>
+          <TD vAlign=3Dtop width=3D250 height=3D133><SPAN =
+class=3Dsmallbody><B>Video=20
+            composite</B> with three layers: green screen, film =
+background, and=20
+            CGI. Two men are shot against green screen and composited =
+into a=20
+            background scene of a castle hall. A QuickTime clip of =
+moving smoke=20
+            is also layered into the final composite. =
+</SPAN><BR></TD></TR>
+        <TR height=3D5>
+          <TD width=3D250 height=3D5></TD></TR>
+        <TR>
+          <TD width=3D250><IMG height=3D184 alt=3D""=20
+            src=3D"http://www.adobe.com/motion/images/ill_text.gif" =
+width=3D250=20
+            border=3D0></TD></TR>
+        <TR height=3D10>
+          <TD width=3D250 height=3D10></TD></TR>
+        <TR>
+          <TD width=3D250><SPAN class=3Dsmallbody><B>Illustrative =
+text</B>=20
+            animation incorporating layered files created in Adobe =
+Illustrator=20
+            and Photoshop. This test animates randomly sequenced 0s and =
+1s=20
+            traveling across the screen at different rates, as well as =
+flashing=20
+            green lights. The text elements were imported into After =
+Effects as=20
+            a three-layered Illustrator file. Because these are vector =
+graphics,=20
+            they could be scaled to any resolution. After the text =
+layers were=20
+            skewed using 3D effects, lighting effects were added to give =
+the=20
+            numbers a green cast. =
+</SPAN><BR></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D10><SPACER HEIGHT=3D"10" WIDTH=3D"10" =
+TYPE=3D"block"></TD>
+    <TD width=3D1></TD>
+    <TD width=3D9><SPACER height=3D"10" width=3D"9" type=3D"block"></TD>
+    <TD vAlign=3Dtop width=3D258>
+      <TABLE cellSpacing=3D2 cellPadding=3D0 border=3D0>
+        <TBODY>
+        <TR>
+          <TD width=3D250><IMG height=3D184 alt=3D""=20
+            src=3D"http://www.adobe.com/motion/images/flying_logo.gif" =
+width=3D250=20
+            border=3D0><BR></TD></TR>
+        <TR height=3D10>
+          <TD width=3D250 height=3D10></TD></TR>
+        <TR height=3D133>
+          <TD vAlign=3Dtop width=3D250 height=3D133><SPAN =
+class=3Dsmallbody><B>Flying=20
+            logo</B> consisting of pure vector graphics, animated in 3D =
+space.=20
+            For this test, 2D shapes created in a multilayered =
+Illustrator file=20
+            are moved around in a 3D environment using a camera in After =
+Effects=20
+            to achieve a fly-around effect. </SPAN><BR></TD></TR>
+        <TR height=3D5>
+          <TD width=3D250 height=3D5></TD></TR>
+        <TR>
+          <TD width=3D250><IMG height=3D184 alt=3D""=20
+            src=3D"http://www.adobe.com/motion/images/virtual_set.gif" =
+width=3D250=20
+            border=3D0></TD></TR>
+        <TR height=3D10>
+          <TD width=3D250 height=3D10></TD></TR>
+        <TR>
+          <TD width=3D250><SPAN class=3Dsmallbody><B>Virtual set</B> =
+using still=20
+            photographs to build an entire 3D environment within After =
+Effects.=20
+            The project involves constructing a room with walls and a =
+ceiling,=20
+            then placing various graphics of pipes and gauges into the =
+3D space.=20
+            A camera is moved through the space, giving a 3D point of =
+view.=20
+            White reports, "Here's the most render-intensive graphic in =
+our=20
+            test....Again, the PC left the Mac in the=20
+        dust."</SPAN><BR></TD></TR></TBODY></TABLE></TD>
+    <TD width=3D14><SPACER HEIGHT=3D"8" WIDTH=3D"14" =
+TYPE=3D"block"></TD></TR>
+  <TR>
+    <TD vAlign=3Dtop width=3D15></TD>
+    <TD vAlign=3Dtop width=3D165></TD>
+    <TD vAlign=3Dtop width=3D20></TD>
+    <TD vAlign=3Dtop width=3D536 colSpan=3D5><BR><SPAN =
+class=3Dsmallbody>Check out=20
+      industry-leading PC hardware offerings on the <A=20
+      href=3D"http://www.adobe.com/motion/gear/main.html">digital video =
+gear=20
+      page</A>.</SPAN> </TD>
+    <TD width=3D14></TD></TR></TBODY></TABLE><!-- The Xssi/regexp above =
+removes code if the footer is being used on the homepage --><!-- image =
+references must be in the /images/ directory due to https rewriting =
+rules -->
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D500 border=3D0>
+  <TBODY>
+  <TR>
+    <TD height=3D20>&nbsp;</TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D735 border=3D0>
+  <TBODY>
+  <TR>
+    <TD width=3D10>&nbsp;</TD>
+    <TD vAlign=3Dtop width=3D735>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop align=3Dleft colSpan=3D13><SPAN =
+class=3Dsmallbody><SPAN=20
+            style=3D"COLOR: #666666">Copyright 2003 Adobe Systems =
+Incorporated.=20
+            All rights reserved.</SPAN></SPAN></TD></TR>
+        <TR height=3D3>
+          <TD colSpan=3D13 height=3D3><SPACER HEIGHT=3D"3" WIDTH=3D"20"=20
+          TYPE=3D"block"></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop><A class=3Dfooterlink=20
+            href=3D"http://www.adobe.com/misc/copyright.html">Terms of =
+Use</A></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD width=3D1 =
+background=3Dhttp://www.adobe.com/images/1dot.gif><SPACER=20
+            HEIGHT=3D"1" WIDTH=3D"1" TYPE=3D"block"></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD vAlign=3Dtop><A class=3Dfooterlink=20
+            href=3D"http://www.adobe.com/misc/privacy.html">Online =
+Privacy=20
+            Policy</A></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD width=3D1 =
+background=3Dhttp://www.adobe.com/images/1dot.gif><SPACER=20
+            HEIGHT=3D"1" WIDTH=3D"1" TYPE=3D"block"></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD vAlign=3Dtop><A class=3Dfooterlink=20
+            href=3D"http://access.adobe.com/">Adobe and =
+accessibility</A></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD width=3D1 =
+background=3Dhttp://www.adobe.com/images/1dot.gif><SPACER=20
+            HEIGHT=3D"1" WIDTH=3D"1" TYPE=3D"block"></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD vAlign=3Dtop><A class=3Dfooterlink=20
+            =
+href=3D"http://www.adobe.com/aboutadobe/antipiracy/main.html">Avoid=20
+            software piracy</A></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD width=3D1 =
+background=3Dhttp://www.adobe.com/images/1dot.gif><SPACER=20
+            HEIGHT=3D"1" WIDTH=3D"1" TYPE=3D"block"></TD>
+          <TD width=3D5><SPACER HEIGHT=3D"10" WIDTH=3D"5" =
+TYPE=3D"block"></TD>
+          <TD vAlign=3Dtop><A class=3Dfooterlink=20
+            =
+href=3D"http://www.adobe.com/misc/agreement.html">Permissions and=20
+            Trademarks</A></TD></TR>
+        <TR height=3D3>
+          <TD colSpan=3D13 height=3D3><SPACER HEIGHT=3D"3" WIDTH=3D"20"=20
+          TYPE=3D"block"></TD></TR></TBODY></TABLE></TD></TR><!-- The =
+Xssi/regexp above removes code if the footer is being used on the =
+homepage -->
+  <TR>
+    <TD colSpan=3D2 height=3D40></TD></TR><!-- 03/26/2002 trp =
+--></TBODY></TABLE><!-- Place Global External Scripts Below This Comment =
+--></BODY></HTML>
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/adobelogo.gif
+
+R0lGODlhcwBQAOYAAAAAAP8AAP///y4AAHQAAMwAAEZGRqKioi4uLgkJCQUAAPoAALW1tejo6DMz
+Mw4AAKIAAMzMzNEAAOMAAF0AAPb29hwAAEYAALm5uZmZmQ4ODrCwsNHR0cPDw0FBQWZmZosAAG9v
+bxcXFyUlJaenp/Hx8ZkAAAUFBdXV1SAgIKysrCoqKnR0dPEAALkAAHl5ecfHx9/f34aGhmFhYfr6
++hMTE+Pj4+zs7BwcHIuLi76+vmtra8cAAJ6enmYAADw8PF1dXTg4OFNTU+gAAEoAABMAACUAAFgA
+ADMAAGsAAKcAABcAAH19fX0AAFMAAIKCgtra2nkAACoAAJ4AAE9PT2EAAIYAAL4AAIIAAEpKSlhY
+WKwAAJSUlPYAAN8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5
+BAAAAAAALAAAAABzAFAAAAf/gACCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5ydnp+goaKjpKWm
+p6ipqqusra6vsLGys7SQRgW4ubq7TooPu8C6FIMaLBkvIrWKAwHNzs/PC0WLLtDWzgSCIxtBAAgq
+CMqIzNfWEIwX5dbZABs4HU8MGhvih+TqzgONXvjYAAkYAOjwwAAAiRr1Ct3DJ8ERgX7NsiXoAKDD
+jh4GkyUctFDdsEYPWkBkx2BEQAYpdGwk1PHaEAWPIIwUlIJBlhoEV6zkCBEEpJbrBiUAkmOGhp08
+8S2wEOlKP3ZIx/XbIonC06iJgD67IEnBBHxQsSpkSAkLWLH28CWhZGGBurBo/wVpDdDiQSWZ5eDG
+neszkYUjitLljTu2nL5EVhoqkjCYcFJrLhR5DcA1UZXGjgFoJaLIaoBziUJe04sW6ASYiRgHWKoI
+xOjMcl9nfdYXkRHZmVsusJsIb7OXiqpBIy22JWhEbaF9RCT4GXGsLQ8jimJNMaLJzmFrhlZA8ldr
+SBQ9zA674/JDns356kI+97PTiniUY927veOFtdOqa7LMPuF79CHi2zXwJSJfRNrdo4QiS7iFz3mG
+pPdcVPdUhsh4+PDgHYLlNWPdI9G1xqF7AfgwiWrOHHdIchMixUxdk/gAjTSKKBFAizsxkx8kovlX
+SDo4rsSMFJVMAU2BiEgQ5P9GA0RWCRLWAJZIEksmNICFlKDYjJOIPGAibEugVgkRJpRpJm9daqfm
+mmy26eabcKKFgAMpJKKBAw4kECciCUTgp56GNCDAAYkYIIAA4expiAeHCvDDIYISioihiCpqyAsC
+lCBACJAOWuihiVo6CAODeiqUAwBESggCCAlCKQIa6FTICLK2eYMAQgiAwiBaVKDrrZIaoKkAKuhJ
+6Qs0CMDBUQCMEMOhHODA5goCNJDCoXri4GsFvnrqQLId+JoDAJQKcKsA455ggwAYcMAumzO8q+mj
+IRzqwAiHEtqDABEAwEKmGlDKBAAwCGADAB/oCoADh7aqHRcCyEDwpgYJAIXvIKo+KzHDAhhAaTf/
+CpDABgJsgOehHqwZwaAfFEwoBu+m6mmyLAAgwqFAvAoAEIeK4G6jhxqgZgLJAr0ryRTJTKivNV+L
+q87xCiBCwRxkYHUGI6jJqAA7fJABtl83gLGnKAiQAQBbO0Cp0DJkWjE9bmIagyAIoJzrpgl7moPB
+IuwbwwmUMvCDqnl/kAACocJGqgqCnOBrCCeUfei6hOJw7qFUkCtABcNWEM4JHQBdkJoYRPDBICRE
+MHAKKnAQwgwRSAzACiRw0IHQAAQRgQoGwKAD7gCc8AIDEeiwg6jIJ6/88sw37/zz0Ecv/fSzBAIA
+Ow==
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/nav/us_productMainNav.gif
+
+R0lGODlhlQEwAJEAAAEBAf+ZM////wAAACH5BAAAAAAALAAAAACVATAAAAL/nI+py+0Po5y02ouz
+3rz7DyJCSJbmiabqyrYk4MbyTNf2jef6zvf+nxsBh8Si8ciDIZfMpvMJjUqn1Kmwis1qtx8l9wsO
+i8fksjl6PavX7Ju3DY/L5/S6XZe+6/f6N/8PGCg4SCiVV4iYGOWn2Oj4CBkZeShZaRnDeKm5ydnp
+iUT5KToakUl6ipqquroQyvq6aQo7S1tru+d6q0sou+trK5D7OxF8WewQLDyTm5yccUwBvdKsTCId
+Ql39cP3TPMQtoi3TCw0eYY4sziGt3oG+fvV+3i5TDiWfE6BQLlR87H2AmoF/8ZwNEHjQIDZKBAcC
+TKgQYsGEEunNC9gvo0OK/xIdRnzY0aPFi/sU+tMoMs1DhA0TEDTIMiKNKwH0hcOYkmPLnSgPbvxp
+QqZOlDx/vmxZgp/RjM7sIcXJESq+C9x4jmhK9FDRp0u7eq3hpaZNoE+LDv0KNWrQlVm9mr02FYPS
+s2rh9ozpsieIqm3pIsVLkavfu3pv1MzL9uZgt1pVxtUAs+/bvmmtIVxcGTO/giA/8GUMWjNThpIn
+ql12YGxmoKJDK359YnJos6s9k0Zr1zXapI1nl/YNTvbucelaOfb9tfBpD8dbO8+91jjueM6lUucd
+8Plv0cG30wXSHbFjk2zZnXxs4XLFnOxFrhbqLhRgjLRjmkefnvxcq/fryzP3HpINI83x2TDxbYDf
+Eb0EUqCBCA64nIMSTugOhRbWseCFGm7IYYfneAjiGBmGSCISBQAAOw==
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/nav/store/us_storeProfileStatus_none.gif
+
+R0lGODlh5gAUAJEAAMzMzP///wAAAAAAACH5BAAAAAAALAAAAADmABQAAAL5lI+py+0Po5y02ouz
+3rz7D4biSJbmiabqCgbs6wQuTFeyHM6Mnty89IMELUOAK2BMIpe1Jm+YgcYQ0p2tZBQAFttmDXqj
+4gzHWZh87imqaR96nBac3dSDLk5uHJVKr/N3t4ZmRyhX+CAVaJi3qNZotqBY1ZDVdWDp93VHJzdX
+59h4KAoKyfjkCfq5OCaoJ8c3mZlSqkobynhrpbtaqMibenh6JSv7hEtrKzmaG+qLfNwb3XobVAWb
+RQzD2XkK18PqK4TXFmzWxtq5Noc+gYmZDT8SG7/LhWSQRK+/z6+F8N4voMCBBAsaPIgwocKFDBs6
+fAgxosSJJgoAADs=
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/nav/us_productSubNav.gif
+
+R0lGODlhewIgAJEAADMzM////wAAAAEBASH5BAAAAAAALAAAAAB7AiAAAAL/lA+py+0Po5y02ouz
+3rz7D4biSJbmiabpYQTqC8fyTNf2jef6vrPCAHN1AkKMsMgLJpEMJsTp3ERRU0C1SYEmt9xu0ieY
+ED3XRbSc/RDH3gbarF6/sc92RD6H1zV5u/8PKOGDxsYxd6ZGpvfX1/eA5HjluANpdCcVmKm5GeED
+dGllVujCtqYgJ1qEempqNWraGiqrejEVS0p6ykpbmLAaWtq7SusbbGypp9p6tDzqVjx2K7wMDRlb
+wXS0q+167Pv8LdutbD3JeY5eAibBLc6sG068iAguz82b0eteDD8Lrx9ulr2A7QoSxJTs4L56DBX+
+e7hQHjY6BhdSBOcvIkRx/+k6elQxiJ3DfhoJ3nJQrmJGfHzIlcLish2djAqJ2cQIME3CkhyHNYxI
+LV5Nkjoh3gw4DqmuowKDcvwINSoIT3fwKO25USU9nkdZItQCR+LVof0qMiWaE5TRrGWvauUqNO5T
+MRfhkoXJdq5YqXz7Wli3R65Mpm9x5l25yEIlniTPzkNK+K7MsWrtDpR7OJfgzRYntrXLOLHZw35L
+m34QMrA7Z6m2pbI2M6nFe4kVXzsZuxtR10pvS3sF+xq2X6tfsqrm1iEz4LRNpn1C3CXk5ZMb89a9
+67T27QqockeZyVx4SrWofD+P3gbg9HPtiPcjnEb8R8+H1GePP3+H1Pr7+///D2CAUXknYIEGHohg
+gi+AwWCDDj4IYYQSTkhhhRZeiGGGGm7IYYcefghiiCKOSGKJJp6IoofvKchiiy6+iB+BMM5IY402
+brceHyaAZQtG8iVSl4+UtSHeiqYZCd6NSkLAH0rziYRQbUKScNmU+Vgp5QlWhVCkFHgguZsRT+qo
+2JJmCsLCJ4+EWRkyWb7J5WdYlpfbnFTC6WaeZI5g5F5RFnVmoAvkaBgwmg0j3C824UYOcvH8lkcu
+mmEnWxO4NUWYMYsyd+U8rN1zqW8pZUfnN9H8wxqm0JRazmvOyYbLqrCSWqmgCTZZ6KcbPWYZZiV5
+FSkwNKn0WWSI8WqQn1D/5tVcV7uNtqcrYUkmJ6vFriUaPYsZayuCMrpx6bBjGeustNfuoyx4klZD
+LLW/8nMusJ0yKyy09jj1zrxPHZrZcWJOg++jollqHGfpdusfoXVuu+u54tJkbrnCDvnMuno9S29c
+sL1rKpttjmaxxND2FElt/HK2byOQ5SrKyg4/fDDC+uG68E4QO2xvkM1N3F5gl+1FLrYZy5tnlUYb
+TFrPqoEFGtNF/dzwYMja3K7MAH5bc2bZiEqdUanu3HWZ00kHLsBhr/S1wWNCl6gwchZkNm9rr4kx
+rbVGc5+PjcotK7xbv/LqSFZf7cMMYIpweKk8JK4d4+YNDrkGNKfguJeVMQOKw9wCXs5n3pF/zgDW
+oI9OeukuKmx66qqvnt8gKb4Oe+yyz0577bbfjnvuuu9+YgEAOw==
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/motion/images/video_composite.gif
+
+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
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/motion/images/ill_text.gif
+
+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
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/motion/images/flying_logo.gif
+
+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
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/motion/images/virtual_set.gif
+
+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
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/nav/navStripe.gif
+
+R0lGODlhCABQAKIAAAAAADMzM8zMzP////+ZMwEBAQAAAAAAACwAAAAACABQAAADJQi63P4wykmr
+vTjrzbv/YCiOTmCeaKqubOu+cCzP0GzfeK7TTwIAOw==
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/products/images/1dot.gif
+
+R0lGODlhAwADAIAAAP///2ZmZiH5BAAAAAAALAAAAAADAAMAAAIDDI5XADs=
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.adobe.com/images/1dot.gif
+
+R0lGODlhAwADAIAAAP///2ZmZiH5BAAAAAAALAAAAAADAAMAAAIDDI5XADs=
+
+------=_NextPart_000_0000_01C2F37E.6527C810
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.adobe.com/ssi/css/win_ie.css
+
+.body {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Sans-Serif
+}
+.fineprint {
+	FONT-SIZE: 9px; LINE-HEIGHT: 11px; FONT-FAMILY: Verdana, Arial, =
+Sans-Serif
+}
+.leaded {
+	LINE-HEIGHT: 18px
+}
+.menuitem {
+	FONT-SIZE: 9px; COLOR: #cc0000; FONT-FAMILY: Verdana, Arial, sans-serif
+}
+.quote {
+	MARGIN-TOP: 6pt; FONT-SIZE: 16px; MARGIN-BOTTOM: 0pt; LINE-HEIGHT: =
+29px; FONT-FAMILY: Times, Serif
+}
+.quotesig {
+	MARGIN-TOP: 5pt; FONT-SIZE: 13px; MARGIN-BOTTOM: 6pt; LINE-HEIGHT: =
+29px; FONT-STYLE: italic; FONT-FAMILY: Times, Serif
+}
+.size1 {
+	FONT-SIZE: 10px; LINE-HEIGHT: 12px; FONT-FAMILY: Verdana, Arial, =
+Sans-Serif
+}
+.size2 {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Sans-Serif
+}
+.size3 {
+	FONT-SIZE: 14px; FONT-FAMILY: Arial, Sans-Serif
+}
+A.blkcrumb {
+	COLOR: #cccccc
+}
+A.crumb {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A {
+	COLOR: #cc0000
+}
+A.footerlink {
+	FONT-SIZE: xx-small; LINE-HEIGHT: 135%; FONT-FAMILY: Verdana, Arial, =
+sans-serif; TEXT-DECORATION: none
+}
+A.homeaa {
+	FONT-SIZE: 70%; LINE-HEIGHT: 135%; FONT-FAMILY: Verdana, Arial, =
+sans-serif; TEXT-DECORATION: none
+}
+A.homesubnav {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; COLOR: #999999; FONT-FAMILY: =
+Verdana,Arial,sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #996666
+}
+A.promoBlurb {
+	FONT-SIZE: xx-small; COLOR: black; FONT-FAMILY: =
+Verdana,Arial,sans-serif; TEXT-DECORATION: none
+}
+A.promoBlurb:visited {
+	FONT-SIZE: xx-small; COLOR: black; FONT-FAMILY: =
+Verdana,Arial,sans-serif; TEXT-DECORATION: none
+}
+A.sort {
+	FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.bio {
+	FONT-SIZE: xx-small; COLOR: #666666; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.bodytext {
+	FONT-SIZE: 70%; LINE-HEIGHT: 135%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.byline {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.caption {
+	FONT-SIZE: xx-small; COLOR: #666666; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.default {
+	BACKGROUND-COLOR: #ffffff
+}
+.pagination {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.captionHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.date {
+	FONT-SIZE: xx-small; COLOR: #666666; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.deck {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.indexblurb {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.indexblurbHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.inhex {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.largebody {
+	FONT-SIZE: 80%; FONT-FAMILY: Verdana, Arial, sans-serif
+}
+.largehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.longblurb {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.longblurbHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.mainImgCaption {
+	FONT-SIZE: xx-small; COLOR: #666666; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.prodtagline {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.pullquotenew {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #666666; LINE-HEIGHT: 23pt; =
+FONT-FAMILY: Verdana, Arial, sans-serif
+}
+.sellingsubhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.sidebarBody {
+	FONT-SIZE: 70%; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.sidebarhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.sidebarCaption {
+	FONT-SIZE: xx-small; COLOR: #666666; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.sidebarCaptionHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; FONT-FAMILY: =
+Verdana,Arial,sans-serif
+}
+.smallbody {
+	FONT-SIZE: xx-small; FONT-FAMILY: Verdana,Arial,sans-serif
+}
+.storytitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.subhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+.tipStep {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; FONT-FAMILY: Verdana, Arial, =
+sans-serif
+}
+
+------=_NextPart_000_0000_01C2F37E.6527C810--

@@ -1,0 +1,2742 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: FOXNews.com
+Date: Mon, 30 Jun 2003 11:10:34 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0000_01C33EF8.3A47EE70";
+	type="text/html"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.foxnews.com/story/0,2933,90747,00.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- Vignette StoryServer 5.0 Mon Jun 30 10:59:28 2003 =
+--><HTML><HEAD><TITLE>FOXNews.com</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252"><LINK=20
+href=3D"http://www.foxnews.com/basestyles2003.css" type=3Dtext/css =
+rel=3DSTYLESHEET>
+<SCRIPT language=3Djavascript=20
+src=3D"http://www.foxnews.com/main2003.js?293696022"></SCRIPT>
+
+<SCRIPT language=3DJavaScript>=0A=
+	<!--=0A=
+	OAS_url =3D 'http://oascentral.foxnews.com/RealMedia/ads/';=0A=
+	OAS_sitepage =3D 'topstories.foxnews/story/94802';=0A=
+	OAS_listpos =3D 'Middle';=0A=
+	OAS_query =3D '';=0A=
+	OAS_target =3D '_top';=0A=
+	//end of configuration=0A=
+	OAS_version =3D 10;=0A=
+	OAS_rn =3D '001234567890'; OAS_rns =3D '1234567890';=0A=
+	OAS_rn =3D new String (Math.random()); OAS_rns =3D OAS_rn.substring (2, =
+11);=0A=
+	function OAS_NORMAL(pos) {=0A=
+	  document.write('<A HREF=3D"' + OAS_url + 'click_nx.ads/' + =
+OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + =
+OAS_query + '" TARGET=3D' + OAS_target + '>');=0A=
+	  document.write('<IMG SRC=3D"' + OAS_url + 'adstream_nx.ads/' + =
+OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + =
+OAS_query + '" BORDER=3D0></A>');=0A=
+	}=0A=
+	//-->=0A=
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript1.1>=0A=
+	<!--=0A=
+	OAS_version =3D 11;=0A=
+	if ((navigator.userAgent.indexOf('Mozilla/3') !=3D -1) || =
+(navigator.userAgent.indexOf('Mozilla/4.0 WebTV') !=3D -1))=0A=
+	  OAS_version =3D 10;=0A=
+	if (OAS_version >=3D 11)=0A=
+	  document.write('<SCR' + 'IPT LANGUAGE=3DJavaScript1.1 SRC=3D"' + =
+OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + =
+OAS_listpos + '?' + OAS_query + '"></SCR' + 'IPT>');=0A=
+	//-->=0A=
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>=0A=
+	<!--=0A=
+	document.write('');=0A=
+	function OAS_AD(pos) {=0A=
+	  if (OAS_version >=3D 11)=0A=
+	    OAS_RICH(pos);=0A=
+	  else=0A=
+	    OAS_NORMAL(pos);=0A=
+	}=0A=
+	//-->=0A=
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript>=0A=
+	if (browser=3D=3D"NN4") {=0A=
+		document.writeln("<style type=3D\"text/css\">.bkgd {background-color: =
+#cccccc;}</style>");=0A=
+	} else {=0A=
+		document.writeln("<style type=3D\"text/css\">.bkgd {background-image: =
+url(/images/right_nav/fn_bg03.gif);}</style>");=0A=
+	}=0A=
+</SCRIPT>
+<!-- Vignette StoryServer 5.0 Mon Jun 30 13:00:01 2003 -->
+<SCRIPT language=3Djavascript>=0A=
+	=0A=
+=0A=
+	=0A=
+		if (browser =3D=3D "NN4" || browser =3D=3D "OP")=0A=
+			promoNum =3D Math.ceil((Math.random() * 6)/2);=0A=
+		else =0A=
+			promoNum =3D 1;=0A=
+	 =0A=
+		show1 =3D "FOX News Live";=0A=
+		url1 =3D "/live";=0A=
+		=0A=
+			time1 =3D "Mon. 1:30 pm ET";=0A=
+		 promo1 =3D "Live Coverage &#151; <b>Pentagon Briefing with Secretary =
+Rumsfeld and General Myers</b>. ";=0A=
+	=0A=
+		show2 =3D "Screening Room";=0A=
+		url2 =3D "/foxfan/front/0,3778,2,00.html";=0A=
+		=0A=
+			time2 =3D "<b>Miss your favorite anchor's commentary?</b>";=0A=
+		 promo2 =3D "Watch <i>Talking Points</i>, <i>Common Sense</i>,  <i>My =
+Word</i>, and more on the Screening Room Click over now!";=0A=
+	=0A=
+		show3 =3D "Hotel Finder";=0A=
+		url3 =3D "http://foxnews.hotellocators.com/";=0A=
+		=0A=
+			time3 =3D "Get Fair &amp; Balanced news on the road!";=0A=
+		 promo3 =3D "Find hotels that carry FNC, and book &nbsp;<b>the best =
+rates</b> online at over 35,000 hotels and resorts across the country. ";=0A=
+	=0A=
+	i =3D 0;=0A=
+	fade =3D "out";=0A=
+	state =3D "display";=0A=
+	fadeBlack =3D new =
+Array('#000000','#333333','#666666','#999999','#CCCCCC','#EEEEEE','#FFFFF=
+F');=0A=
+	fadeRed =3D new =
+Array('#990000','#993333','#996666','#CC6666','#CC9999','#FFCCCC','#FFFFF=
+F');=0A=
+	=0A=
+	function fader() {=0A=
+		var getUHead =3D getLayer('uberHead');=0A=
+		var getUTime =3D getLayer('uberTime');=0A=
+		var getUBody =3D getLayer('uberBody');=0A=
+		getUHead.style.color =3D fadeBlack[i];=0A=
+		getUTime.style.color =3D fadeRed[i];=0A=
+		getUBody.style.color =3D fadeBlack[i];=0A=
+		if (i < 6 && fade =3D=3D "out") {=0A=
+			i++;=0A=
+			intID =3D setTimeout('fader()', 100);=0A=
+		} else if (i =3D=3D 6 && fade =3D=3D "out") {=0A=
+			fade =3D "in";=0A=
+			if (promoNum !=3D 3)=0A=
+				promoNum++;=0A=
+			else =0A=
+				promoNum =3D 1;=0A=
+			getUHead.innerHTML =3D "<b>"+eval('show'+promoNum)+"</b>";=0A=
+			getUTime.innerHTML =3D eval('time'+promoNum);=0A=
+			getUBody.innerHTML =3D eval('promo'+promoNum);=0A=
+			intID =3D setTimeout('fader()', 100);=0A=
+		} else if (i > 0 && fade =3D=3D "in"){=0A=
+			i--;=0A=
+			intID =3D setTimeout('fader()', 100);=0A=
+		} else if (i =3D=3D 0 && fade =3D=3D "in") {=0A=
+			fade =3D "out"=0A=
+			clearTimeout(intID);=0A=
+		}=0A=
+	}=0A=
+	=0A=
+	function uberPromo() {=0A=
+		if (browser !=3D "NN4" && browser !=3D "OP") {=0A=
+			if (state =3D=3D "display") {=0A=
+				state =3D "fade";=0A=
+				intPromoID =3D setTimeout('uberPromo()', 12000);=0A=
+			} else if (state =3D=3D "fade") {=0A=
+				fader();=0A=
+				state =3D "display";=0A=
+				intPromoID =3D setTimeout('uberPromo()', 2000);=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+ function uberLink() {=0A=
+		uberUrl =3D eval("url"+promoNum);=0A=
+		if (uberUrl !=3D "") {=0A=
+			window.location =3D uberUrl;=0A=
+		}=0A=
+	}=0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.2800.1170" name=3DGENERATOR></HEAD>
+<BODY onresize=3Dnn4Reload(); bgColor=3D#ffffff leftMargin=3D0 =
+topMargin=3D0=20
+onload=3D"uberPromo();searchScroll('start');" marginheight=3D"0" =
+marginwidth=3D"0"><A=20
+name=3Dtop></A>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D770 border=3D0>
+  <TBODY>
+  <TR>
+    <TD colSpan=3D4>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D770 =
+bgColor=3D#000066 border=3D0>
+        <TBODY>
+        <TR>
+          <TD><A href=3D"http://www.foxnews.com/index.html"><IMG =
+height=3D72=20
+            src=3D"http://www.foxnews.com/images/banners/logo03.gif" =
+width=3D115=20
+            border=3D0></A></TD>
+          <TD><IMG height=3D72=20
+            =
+src=3D"http://www.foxnews.com/images/banners/sec_top_stories03.jpg"=20
+            width=3D570></TD>
+          <SCRIPT language=3DJavaScript>ffImage();</SCRIPT>
+        </TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD colSpan=3D4><!--esi=0A=
+		<esi:vars>=0A=
+		<esi:include src=3D"/navigation03_akamai.inc" onerror=3D"continue"/>=0A=
+		</esi:vars>=0A=
+		-->
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D770 =
+bgColor=3D#cccccc border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D5 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D5></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D760 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD><A onmouseover=3DopenShows();=20
+                  =
+href=3D"http://www.foxnews.com/other/schedule.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_fncshows03.gif"=20
+                  width=3D107 border=3D0 name=3Dfncshows></A></TD>
+                <TD><A onmouseover=3D"rollOver('topstories');"=20
+                  onmouseout=3D"rollOut('topstories');"=20
+                  =
+href=3D"http://www.foxnews.com/topstories/index.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_topstories03.gif"=20
+                  width=3D98 border=3D0 name=3Dtopstories></A></TD>
+                <TD><A onmouseover=3D"rollOver('politics');"=20
+                  onmouseout=3D"rollOut('politics');"=20
+                  =
+href=3D"http://www.foxnews.com/politics/index.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_politics03.gif"=20
+                  width=3D77 border=3D0 name=3Dpolitics></A></TD>
+                <TD><A onmouseover=3D"rollOver('business');"=20
+                  onmouseout=3D"rollOut('business');"=20
+                  =
+href=3D"http://www.foxnews.com/business/index.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_business03.gif"=20
+                  width=3D82 border=3D0 name=3Dbusiness></A></TD>
+                <TD><A onmouseover=3D"rollOver('foxlife');"=20
+                  onmouseout=3D"rollOut('foxlife');"=20
+                  =
+href=3D"http://www.foxnews.com/foxlife/index.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_foxlife03.gif"=20
+                  width=3D71 border=3D0 name=3Dfoxlife></A></TD>
+                <TD><A onmouseover=3D"rollOver('views');"=20
+                  onmouseout=3D"rollOut('views');"=20
+                  href=3D"http://www.foxnews.com/views/index.html"><IMG =
+height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_views03.gif"=20
+                  width=3D63 border=3D0 name=3Dviews></A></TD>
+                <TD><A onmouseover=3D"rollOver('foxpolls');"=20
+                  onmouseout=3D"rollOut('foxpolls');"=20
+                  href=3D"http://www.foxnews.com/polls/index.html"><IMG =
+height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_foxpolls03.gif"=20
+                  width=3D85 border=3D0 name=3Dfoxpolls></A></TD>
+                <TD><A onmouseover=3D"rollOver('weather');"=20
+                  onmouseout=3D"rollOut('weather');"=20
+                  href=3D"http://www2.foxnews.com/"><IMG height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_weather03.gif"=20
+                  width=3D77 border=3D0 name=3Dweather></A></TD>
+                <TD><A onmouseover=3D"rollOver('foxsports');"=20
+                  onmouseout=3D"rollOut('foxsports');"=20
+                  href=3D"http://www.foxsports.com/" =
+target=3D_blank><IMG height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_foxsports03.gif"=20
+                  width=3D100 border=3D0=20
+        name=3Dfoxsports></A></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D3></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D760 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D230 =
+border=3D0>
+                    <FORM name=3DsearchForm onsubmit=3D"return =
+searchSub();"=20
+                    action=3Dhttp://clickit.go2net.com/search =
+method=3Dget><INPUT=20
+                    type=3Dhidden value=3D299274 name=3Dcid> <INPUT =
+type=3Dhidden=20
+                    value=3Dsrch name=3Dsite> <INPUT type=3Dhidden=20
+                    value=3Dis.clicktracking name=3Darea> <INPUT =
+type=3Dhidden=20
+                    value=3Dlink name=3Dshape> <INPUT type=3Dhidden =
+value=3Dinfo.foxnws=20
+                    name=3Dcp> <INPUT type=3Dhidden=20
+                    =
+value=3Dhttp://search.foxnews.com/info.foxnws/redirs_all.htm?pgtarg=3Dwbs=
+dogpile=20
+                    name=3Dclickurl> <INPUT type=3Dhidden value=3Dweb =
+name=3Dext_qcat>=20
+                    <TBODY>
+                    <TR>
+                      <TD rowSpan=3D3><IMG height=3D24=20
+                        =
+src=3D"http://www.foxnews.com/images/top_nav/search.gif"=20
+                        width=3D59></TD>
+                      <TD bgColor=3D#ffffff colSpan=3D2><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D138></TD>
+                      <TD rowSpan=3D3><INPUT type=3Dimage=20
+                        =
+src=3D"http://www.foxnews.com/images/top_nav/search_go.gif"=20
+                        border=3D0></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#666666><IMG height=3D22=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D1></TD>
+                      <TD align=3Dmiddle bgColor=3D#666666><INPUT=20
+                        style=3D"BORDER-TOP-WIDTH: 0px; =
+BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 11px; BORDER-BOTTOM-WIDTH: 0px; =
+WIDTH: 137px; FONT-FAMILY: arial,helvetica; HEIGHT: 16px; =
+BORDER-RIGHT-WIDTH: 0px"=20
+                        onfocus=3DsearchFocus(); maxLength=3D52 =
+size=3D15=20
+                      name=3Dext_qkw></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#ffffff colSpan=3D2><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        =
+width=3D138></TD></TR></FORM></TBODY></TABLE></TD>
+                <TD><IMG height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_fea_links.gif"=20
+                  width=3D54></TD>
+                <TD><IMG height=3D2=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D2></TD>
+                <TD><A onmouseover=3D"rollOver('fea_jobs');"=20
+                  onmouseout=3D"rollOut('fea_jobs');"=20
+                  =
+href=3D"http://www.careerbuilder.com/JobSeeker/Index.htm?ch=3Dal&amp;lr=3D=
+cbfoxn&amp;siteid=3Dfoxn01"=20
+                  target=3D_blank><IMG height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_fea_jobs03.gif"=20
+                  width=3D73 border=3D0 name=3Dfea_jobs></A></TD>
+                <TD><IMG height=3D2=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D2></TD>
+                <TD><A onmouseover=3D"rollOver('fea_realestate');"=20
+                  onmouseout=3D"rollOut('fea_realestate');"=20
+                  =
+href=3D"http://www.foxnews.com/ads/home_gain.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_fea_realestate03.gif=
+"=20
+                  width=3D73 border=3D0 name=3Dfea_realestate></A></TD>
+                <TD><IMG height=3D2=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D2></TD>
+                <TD><A onmouseover=3D"rollOver('fea_oreillyfactor');"=20
+                  onmouseout=3D"rollOut('fea_oreillyfactor');"=20
+                  =
+href=3D"http://www.foxnews.com/oreilly/index.html"><IMG=20
+                  height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_fea_oreillyfactor03.=
+gif"=20
+                  width=3D90 border=3D0 =
+name=3Dfea_oreillyfactor></A></TD>
+                <TD><IMG height=3D2=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D2></TD>
+                <TD><A onmouseover=3D"rollOver('fea_yourworld');"=20
+                  onmouseout=3D"rollOut('fea_yourworld');"=20
+                  href=3D"http://www.foxnews.com/cavuto/index.html"><IMG =
+height=3D16=20
+                  =
+src=3D"http://www.foxnews.com/images/top_nav/nav_off_fea_yourworld03.gif"=
+=20
+                  width=3D73 border=3D0 name=3Dfea_yourworld></A></TD>
+                <TD align=3Dmiddle>
+                  <SCRIPT language=3DJavaScript>ffMember();</SCRIPT>
+                </TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D3></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD colSpan=3D4><IMG height=3D5=20
+      src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D770></TD></TR>
+  <TR>
+    <TD><IMG height=3D10 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+      width=3D10></TD>
+    <TD vAlign=3Dtop>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 border=3D0>
+        <FORM name=3DemailFriend action=3D/cgi-bin/email.cgi =
+method=3Dpost><INPUT=20
+        type=3Dhidden=20
+        value=3D"Three Killed, Three Wounded in California Sword Attack" =
+
+        name=3Dheadline> <INPUT type=3Dhidden value=3Dnone =
+name=3Dbyline> <INPUT=20
+        type=3Dhidden value=3D"Monday, June      30, 2003" name=3Ddate> =
+<INPUT=20
+        type=3Dhidden value=3Durl name=3Durl> </FORM>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD align=3Dright><A =
+href=3D"http://go.efax.com/s/r/foxnews"=20
+                  target=3D_blank><IMG=20
+                  src=3D"http://www.foxnews.com/images/col_ban_efax.gif" =
+
+                  border=3D0></A></TD></TR>
+              <TR>
+                <TD class=3Dheadlineblack>Three Killed, Three Wounded in =
+
+                  California Sword Attack</TD></TR>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 =
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD colSpan=3D3><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D490></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#000000 colSpan=3D3><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D490></TD></TR>
+                    <TR>
+                      <TD><A href=3D"javascript:emailFriend();"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_email.gif"=20
+                        border=3D0></A></TD>
+                      <TD align=3Dmiddle><A=20
+                        =
+href=3D"http://www.foxnews.com/printer_friendly_story/0,3566,90747,00.htm=
+l"=20
+                        target=3D_blank><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_printer.gif"=20
+                        border=3D0></A></TD>
+                      <TD align=3Dright><A=20
+                        =
+href=3D"http://www.foxnews.com/foxfan/register.html"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_foxfan.gif"=20
+                        border=3D0></A></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#000000 colSpan=3D3><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D420></TD></TR>
+                    <TR>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D163></TD>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D164></TD>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D163></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD><IMG height=3D10=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D490></TD></TR>
+              <TR>
+                <TD><FONT class=3Dcapblack>Monday, June 30, =
+2003</FONT><BR><IMG=20
+                  =
+src=3D"http://www.foxnews.com/images/service_ap_36.gif">=20
+                  <P class=3Dstorytext><B>IRVINE, =
+Calif.&nbsp;=97&nbsp;Police shot=20
+                  and killed a sword-wielding man described by relatives =
+
+                  as&nbsp;<B>schizophrenic</B> (<A=20
+                  =
+href=3D"http://clickit.go2net.com/search?cid=3D307797&amp;site=3Dsrch&amp=
+;area=3Dis.clicktracking&amp;shape=3Dlink&amp;cp=3Dinfo.foxnws&amp;clicku=
+rl=3Dhttp%3A%2F%2Fsearch.foxnews.com%2Finfo.foxnws%2Fredirs_all.htm%3Fpgt=
+arg%3Dwbsdogpile&amp;ext_qcat=3Dweb&amp;ext_qkw=3Dschizophrenic"=20
+                  target=3D_blank>search</A>)&nbsp;after he slashed and =
+killed two=20
+                  former co-workers and wounded three other people at a=20
+                  supermarket where he used to bag groceries.</B></P>
+                  <P>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D100 =
+align=3Dleft=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD align=3Dmiddle bgColor=3D#666666><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/hd_advertisement.gif"></TD>
+                      <TD rowSpan=3D4><IMG height=3D5=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D5></TD></TR>
+                    <TR>
+                      <TD><IMG height=3D5=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D5></TD></TR>
+                    <TR>
+                      <TD>
+                        <SCRIPT =
+language=3DJavaScript>OAS_AD('Middle');</SCRIPT>
+                      </TD></TR>
+                    <TR>
+                      <TD><IMG height=3D5=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D5></TD></TR></TBODY></TABLE><FONT =
+class=3Dstorytext>About=20
+                  40 to 50 shoppers ran from the store shortly after =
+9:30 a.m.=20
+                  Sunday as police went in to subdue Joseph Hunter =
+Parker, who=20
+                  was armed with a&nbsp;<B>samurai-style sword</B> (<A=20
+                  =
+href=3D"http://clickit.go2net.com/search?cid=3D307797&amp;site=3Dsrch&amp=
+;area=3Dis.clicktracking&amp;shape=3Dlink&amp;cp=3Dinfo.foxnws&amp;clicku=
+rl=3Dhttp%3A%2F%2Fsearch.foxnews.com%2Finfo.foxnws%2Fredirs_all.htm%3Fpgt=
+arg%3Dwbsdogpile&amp;ext_qcat=3Dweb&amp;ext_qkw=3Dsamurai-style%20sword" =
+
+                  target=3D_blank>search</A>)&nbsp;and wearing a beret =
+and=20
+                  trenchcoat, said police Cmdr. Jeff Noble.</FONT> </P>
+                  <P class=3Dstorytext>The 30-year-old man confronted an =
+officer=20
+                  before fellow officers shot him, said Lt. Jeff Love. =
+Parker=20
+                  was taken to the hospital and did not survive. One of =
+the=20
+                  wounded was a grocery store employee and two others =
+were=20
+                  customers, police said. Police did not release the =
+names of=20
+                  the dead or wounded.</P>
+                  <P class=3Dstorytext>Parker had been diagnosed as =
+schizophrenic,=20
+                  his mother, Susan Davis, said in an interview Sunday =
+from=20
+                  rural Ford, Va. He also was a volunteer firefighter =
+and=20
+                  emergency medical technician.</P>
+                  <P class=3Dstorytext>"He was not in a good state at =
+all," Davis=20
+                  said, adding she had not spoken to Parker in about a =
+year. "He=20
+                  said voices were telling him to do bad things."</P>
+                  <P class=3Dstorytext>Davis said Parker, who moved to =
+California=20
+                  about five years ago, collected swords and was a fan =
+of the=20
+                  "Highlander" film and television series in which the =
+hero is a=20
+                  swordsman.</P>
+                  <P class=3Dstorytext>"I'm just sorry about what =
+happened," Davis=20
+                  said.</P>
+                  <P class=3Dstorytext>Parker's former co-workers said =
+he quit his=20
+                  job bagging groceries about two weeks ago after =
+working at the=20
+                  store for about two years.</P>
+                  <P class=3Dstorytext>"I never felt threatened, but he =
+was just a=20
+                  really odd man," said coworker Mark Ming, 26. "He =
+would have=20
+                  full conversations with himself. He obviously had =
+problems,=20
+                  but he was respectful toward customers."</P>
+                  <P class=3Dstorytext>Parker's sister, Heather Parker, =
+28, of=20
+                  Anaheim, said she hasn't spoken to her brother in =
+several=20
+                  months.</P>
+                  <P class=3Dstorytext>"He was alone and he was very =
+mistreated=20
+                  his whole life," she said in a telephone interview. =
+"He was=20
+                  being treated for schizophrenia. He's never been in =
+trouble.=20
+                  He didn't drink, didn't use drugs. He was kind."</P>
+                  <P class=3Dstorytext>Love called the attacks an =
+aberration in=20
+                  the quiet city 40 miles southeast of Los Angeles, =
+which he=20
+                  said averages less than one murder a year. About =
+143,000=20
+                  people live here.</P></TD></TR>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 =
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD colSpan=3D3><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D490></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#000000 colSpan=3D3><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D490></TD></TR>
+                    <TR>
+                      <TD><A href=3D"javascript:emailFriend();"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_email.gif"=20
+                        border=3D0></A></TD>
+                      <TD align=3Dmiddle><A=20
+                        =
+href=3D"http://www.foxnews.com/printer_friendly_story/0,3566,90747,00.htm=
+l"=20
+                        target=3D_blank><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_printer.gif"=20
+                        border=3D0></A></TD>
+                      <TD align=3Dright><A=20
+                        =
+href=3D"http://www.foxnews.com/foxfan/register.html"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/st_con_wht_foxfan.gif"=20
+                        border=3D0></A></TD></TR>
+                    <TR>
+                      <TD bgColor=3D#000000 colSpan=3D3><IMG height=3D1=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D420></TD></TR>
+                    <TR>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D163></TD>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D164></TD>
+                      <TD><IMG height=3D10=20
+                        =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+                        width=3D163></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD align=3Dmiddle>
+                  <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D400 =
+border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD width=3D200><A=20
+                        href=3D"http://www.foxnews.com/index.html"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/btn_home02.gif"=20
+                        border=3D0></A></TD>
+                      <TD align=3Dright width=3D200><A=20
+                        =
+href=3D"http://www.foxnews.com/story/0,2933,90747,00.html#top"><IMG=20
+                        =
+src=3D"http://www.foxnews.com/images/btn_top02.gif"=20
+                        =
+border=3D0></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD><=
+/TR>
+        <TR>
+          <TD><IMG height=3D20 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D490></TD></TR>
+        <TR>
+          <TD><!-- Vignette StoryServer 5.0 Fri Jun 27 09:41:30 2003 -->
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD colSpan=3D7><IMG height=3D18=20
+                  =
+src=3D"http://www.foxnews.com/images/tab_490_specialoffers.gif"=20
+                  width=3D490></TD></TR>
+              <TR>
+                <TD rowSpan=3D2><IMG height=3D20=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D20></TD>
+                <TD><IMG height=3D10=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+width=3D140></TD>
+                <TD rowSpan=3D2><IMG height=3D15=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D15></TD>
+                <TD><IMG height=3D10=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+width=3D140></TD>
+                <TD rowSpan=3D2><IMG height=3D15=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D15></TD>
+                <TD><IMG height=3D10=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+width=3D140></TD>
+                <TD rowSpan=3D2><IMG height=3D20=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D20></TD></TR>
+              <TR>
+                <TD class=3Ddeck><A =
+href=3D"http://www.freelandlist.com/fox"=20
+                  target=3D_blank>Real Estate Finder</A> <BR><A=20
+                  =
+href=3D"http://www.emode.com/forward?sid=3D1445&amp;supp=3Dwebpros22&amp;=
+test=3Duiqogt"=20
+                  target=3D_blank>FREE IQ Test!</A> <BR><A=20
+                  href=3D"http://www.mmoolamail.com/" =
+target=3D_blank>Read Email=20
+                  &amp; Make $231</A> </TD>
+                <TD class=3Ddeck><A=20
+                  =
+href=3D"http://www.newsmaxstore.com/nms/showdetl.cfm?&amp;DID=3D6&amp;Pro=
+duct_ID=3D1433&amp;af_id=3D187"=20
+                  target=3D_blank>Ann Coulter FREE!</A> <BR><A=20
+                  href=3D"http://www.dvdclubsonline.com/549cents.html"=20
+                  target=3D_blank>5 DVDs 49 Cents Each</A> <BR><A=20
+                  href=3D"http://www.timingcube.com/" =
+target=3D_blank>Stock Timing:=20
+                  Up 600%+</A> </TD>
+                <TD class=3Ddeck><A=20
+                  =
+href=3D"http://www.lowestcostrx.com/index.asp?affcode=3D5202"=20
+                  target=3D_blank>Rx:Diet,Sleep,Viag,More</A> <BR><A=20
+                  href=3D"http://www.storetodoorshopping.com/"=20
+                  target=3D_blank>StoreToDoorShopping</A> <BR><A=20
+                  =
+href=3D"http://www.phonehog.com/default.asp?offer=3Dwebprosfox"=20
+                  target=3D_blank>Free Calling Card</A> =
+</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD><IMG height=3D20 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D490></TD></TR>
+        <TR>
+          <TD bgColor=3D#990000><IMG height=3D3=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D490></TD></TR>
+        <TR>
+          <TD><IMG height=3D20 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D490></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D490 =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3DbotNav align=3Dmiddle><A=20
+                  =
+href=3D"http://www.foxnews.com/other/schedule.html">Schedule</A>=20
+                  &nbsp;|&nbsp; <A =
+href=3D"http://www.foxnews.com/bio/">FOX News=20
+                  Bios</A> &nbsp;|&nbsp; <A=20
+                  =
+href=3D"http://www.foxnews.com/foxfan/contact.html">E-mail=20
+                  Shows</A> &nbsp;|&nbsp; <A=20
+                  =
+href=3D"http://www.foxnews.com/foxfan/faq.html">FAQ</A>=20
+                  &nbsp;|&nbsp; <A=20
+                  =
+href=3D"http://shop.ecompanystore.com/foxnews/FOX_shop.asp"=20
+                  target=3D_blank>FOX News Shop</A> </TD></TR>
+              <TR>
+                <TD><IMG height=3D10=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D10></TD></TR>
+              <TR>
+                <TD class=3DbotNav align=3Dmiddle><A=20
+                  =
+href=3D"javascript:pop('http://www2.foxnews.com/channelfinder/index.html'=
+,'CFWin',250,500,'no','no');">Find=20
+                  FOX News Channel in Your Area</A> &nbsp;|&nbsp; <A=20
+                  =
+href=3D"http://www.foxnews.com/foxfan/international.html">Find=20
+                  FOX News Channel Abroad</A> =
+</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD><IMG height=3D20 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D490></TD></TR>
+        <TR>
+          <TD class=3Dcapblack align=3Dmiddle><!--esi=0A=
+<esi:vars>=0A=
+<esi:include src=3D"/fnc_footer_akamai.inc" onerror=3D"continue"/>=0A=
+</esi:vars>=0A=
+--><FONT=20
+            class=3Dconsoletxt><A=20
+            =
+href=3D"javascript:pop('/mediakit/index.htm','mediaWin',600,480,'no','no'=
+);"><B>Advertise=20
+            on FOXNews.com</B></A></FONT> <BR><A=20
+            =
+href=3D"http://www.foxnews.com/story/0,2933,27906,00.html">Jobs at FOX=20
+            News Channel.</A> <A=20
+            =
+href=3D"javascript:pop('http://www.foxnews.com/projects/internships','int=
+ernsWin',640,480,'no','no');">Internships=20
+            at FOX News Channel.</A> <BR><A=20
+            href=3D"http://www.foxnews.com/other/termsofuse.html">Terms =
+of=20
+            use.</A>&nbsp;&nbsp;<A=20
+            href=3D"http://www.foxnews.com/other/privacy.html">Privacy=20
+            Statement.</A>&nbsp;&nbsp;For FOXNews.com comments write to =
+<BR><A=20
+            =
+href=3D"mailto:foxnewsonline@foxnews.com">foxnewsonline@foxnews.com</A>;&=
+nbsp;&nbsp;For=20
+            FOX News Channel comments write to <BR><A=20
+            =
+href=3D"mailto:comments@foxnews.com">comments@foxnews.com</A> <BR>=A9=20
+            Associated Press. All rights reserved. <BR>Copyright =A9 =
+2003 <A=20
+            =
+href=3D"http://www.foxnews.com/story/0,2933,89127,00.html">ComStock,=20
+            Inc.</A> <BR>This material may not be published, broadcast,=20
+            rewritten, or redistributed. <BR><BR>Copyright 2003 FOX News =
+
+            Network, LLC. All rights reserved. <BR>All market data =
+delayed 20=20
+            minutes. </TD></TR>
+        <TR>
+          <TD><IMG height=3D19 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D490></TD></TR></TBODY></TABLE></TD>
+    <TD><IMG height=3D10 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+      width=3D10></TD>
+    <TD class=3Dbkgd vAlign=3Dtop bgColor=3D#cccccc>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D260 border=3D0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=3D5 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D260></TD></TR>
+        <TR>
+          <TD><IMG height=3D18=20
+            =
+src=3D"http://www.foxnews.com/images/right_nav/tab_comingup03.gif"=20
+            width=3D260></TD></TR>
+        <TR>
+          <TD><IMG height=3D5 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D5></TD></TR>
+        <TR>
+          <TD align=3Dmiddle>
+            <TABLE class=3DborderRed cellSpacing=3D0 cellPadding=3D0 =
+width=3D250=20
+            bgColor=3D#ffffff border=3D0>
+              <TBODY>
+              <TR>
+                <TD colSpan=3D4><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D250></TD></TR>
+              <TR>
+                <TD rowSpan=3D2><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D9></TD>
+                <TD vAlign=3Dtop colSpan=3D2>
+                  <SCRIPT language=3Djavascript>=0A=
+		if (browser =3D=3D "NN4") {=0A=
+			document.writeln("<div id=3D\"uberHead\" =
+class=3D\"uberBlack\"><b>"+eval('show'+promoNum)+"</b></div>");=0A=
+		} else {=0A=
+			document.writeln("<div id=3D\"uberHead\" class=3D\"uberBlack\" =
+onClick=3D\"uberLink();\"><b>"+eval('show'+promoNum)+"</b></div>");=0A=
+		}=0A=
+		document.writeln("<div id=3D\"uberTime\" =
+class=3D\"uberRed\">"+eval('time'+promoNum)+"</div>");=0A=
+	</SCRIPT>
+                </TD>
+                <TD rowSpan=3D2><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D9></TD></TR>
+              <TR>
+                <TD colSpan=3D2><IMG height=3D5=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D232></TD></TR>
+              <TR>
+                <TD><IMG height=3D62=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D9></TD>
+                <TD vAlign=3Dtop colSpan=3D2>
+                  <SCRIPT language=3Djavascript>=0A=
+		document.writeln("<div id=3D\"uberBody\" =
+class=3D\"uberBlack\">"+eval('promo'+promoNum)+"</div>");=0A=
+	</SCRIPT>
+                </TD>
+                <TD><IMG height=3D62=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D9></TD></TR>
+              <TR>
+                <TD rowSpan=3D3><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D9></TD>
+                <TD><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D23></TD>
+                <TD><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+width=3D209></TD>
+                <TD rowSpan=3D3><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D9></TD></TR>
+              <TR>
+                <TD><A =
+href=3D"http://www.foxnews.com/other/schedule.html"><IMG=20
+                  =
+src=3D"http://www.foxnews.com/images/icons/icon_schedule.gif"=20
+                  border=3D0></A></TD>
+                <TD class=3Ddeck><A=20
+                  =
+href=3D"http://www.foxnews.com/other/schedule.html"><B>FNC=20
+                  Schedule</B></A></TD></TR>
+              <TR>
+                <TD colSpan=3D2><IMG height=3D9=20
+                  src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+              width=3D232></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD><IMG height=3D10 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            =
+width=3D10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!--esi=0A=
+<esi:vars>=0A=
+<esi:include src=3D"/showDiv03_akamai.inc" onerror=3D"continue"/>=0A=
+</esi:vars>=0A=
+-->
+<DIV id=3DshowsDiv=20
+style=3D"Z-INDEX: 10; LEFT: 0px; VISIBILITY: hidden; WIDTH: 770px; =
+POSITION: absolute; TOP: 4px">
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D758 border=3D0>
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dtop><A href=3D"http://www.foxnews.com/index.html"><IMG =
+height=3D65=20
+      src=3D"http://www.foxnews.com/images/clear_dot.gif" width=3D103=20
+    border=3D0></A></TD>
+    <TD rowSpan=3D2>
+      <TABLE class=3DborderRed cellSpacing=3D0 cellPadding=3D0 =
+width=3D615=20
+      bgColor=3D#ffffff border=3D0>
+        <TBODY>
+        <TR>
+          <TD rowSpan=3D5><IMG height=3D5=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D5></TD>
+          <TD colSpan=3D7><IMG height=3D5=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D5></TD>
+          <TD rowSpan=3D5><IMG height=3D5=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D5></TD></TR>
+        <TR>
+          <TD colSpan=3D2><IMG height=3D15=20
+            =
+src=3D"http://www.foxnews.com/images/top_nav/show_daytime03a.gif"=20
+            width=3D136></TD>
+          <TD><IMG height=3D15=20
+            =
+src=3D"http://www.foxnews.com/images/top_nav/show_primetime03.gif"=20
+            width=3D114></TD>
+          <TD colSpan=3D2><IMG height=3D15=20
+            =
+src=3D"http://www.foxnews.com/images/top_nav/show_weekend03.gif"=20
+            width=3D226></TD>
+          <TD><IMG height=3D15=20
+            =
+src=3D"http://www.foxnews.com/images/top_nav/show_extra03a.gif"=20
+            width=3D109></TD>
+          <TD vAlign=3Dtop rowSpan=3D3><A =
+href=3D"javascript:closeShows();"><IMG=20
+            height=3D15=20
+            =
+src=3D"http://www.foxnews.com/images/top_nav/show_close03.gif"=20
+            width=3D20 border=3D0></A></TD></TR>
+        <TR>
+          <TD rowSpan=3D2><IMG height=3D15=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif" =
+width=3D13></TD>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D123></TD>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D114></TD>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D113></TD>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D113></TD>
+          <TD><IMG height=3D3 =
+src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+            width=3D109></TD></TR>
+        <TR>
+          <TD class=3DdrillNav vAlign=3Dtop><A=20
+            href=3D"http://www.foxnews.com/foxfriends/index.html">FOX =
+&amp;=20
+            Friends First</A><BR><A=20
+            href=3D"http://www.foxnews.com/foxfriends/index.html">FOX =
+&amp;=20
+            Friends</A><BR><A =
+href=3D"http://www.foxnews.com/live/index.html">FOX=20
+            News Live</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/dayside/index.html">DaySide</A><BR><A=20
+            href=3D"http://www.foxnews.com/studiob/index.html">Studio =
+B</A><BR><A=20
+            href=3D"http://www.foxnews.com/cavuto/index.html">Your =
+World</A><BR><A=20
+            href=3D"http://www.foxnews.com/bigstory/index.html">The Big =
+Story</A>=20
+          </TD>
+          <TD class=3DdrillNav vAlign=3Dtop><A=20
+            =
+href=3D"http://www.foxnews.com/specialreport/index.html">Special=20
+            Report</A><BR><A=20
+            href=3D"http://www.foxnews.com/foxreport/index.html">FOX=20
+            Report</A><BR><A=20
+            href=3D"http://www.foxnews.com/oreilly/index.html">The =
+O'Reilly=20
+            Factor</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/hannityandcolmes/index.html">Hannity=20
+            &amp; Colmes</A><BR><A=20
+            href=3D"http://www.foxnews.com/ontherecord/index.html">On =
+the=20
+            Record</A> </TD>
+          <TD class=3DdrillNav vAlign=3Dtop><A=20
+            href=3D"http://www.foxnews.com/afterhours/index.html">After=20
+            Hours</A><BR><A =
+href=3D"http://www.foxnews.com/geraldo/index.html">At=20
+            Large w/ Geraldo</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/beltwayboys/index.html">Beltway=20
+            Boys</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/bullsandbears/index.html">Bulls &amp;=20
+            Bears</A><BR><A=20
+            href=3D"http://www.foxnews.com/cash/index.html">Cashin' =
+In</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/cavutobusiness/index.html">Cavuto on=20
+            Business</A><BR><A=20
+            href=3D"http://www.foxnews.com/forbes/index.html">Forbes on =
+FOX</A>=20
+</TD>
+          <TD class=3DdrillNav vAlign=3Dtop><A=20
+            href=3D"http://www.foxnews.com/foxmagazine/index.html">FOX=20
+            Magazine</A><BR><A=20
+            href=3D"http://www.foxnews.com/foxnewswatch/index.html">FOX =
+News=20
+            Watch</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/heartland/index.html">Heartland</A><BR><A =
+
+            =
+href=3D"http://www.foxnews.com/patsajakweekend/index.html">Pat Sajak=20
+            Weekend</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/bigstoryweekend/index.html">The Big=20
+            Story</A><BR><A=20
+            href=3D"http://www.foxnews.com/warstories/index.html">War=20
+            Stories</A><BR><A=20
+            =
+href=3D"http://www.foxnews.com/liveweekend/index.html">Weekend=20
+            Live</A> </TD>
+          <TD class=3DdrillNav vAlign=3Dtop><A=20
+            href=3D"http://www.foxnews.com/specials/index.html">FOX News =
+
+            Specials</A><BR><A =
+href=3D"http://www.foxnews.com/fns/index.html">FOX=20
+            News Sunday</A><BR><A=20
+            href=3D"http://www.foxnews.com/pulse/index.html">The =
+Pulse</A><BR><A=20
+            href=3D"http://www.foxnews.com/other/schedule.html">Show=20
+            Schedule</A><BR><BR><A=20
+            href=3D"http://www.foxnews.com/bio/index.html">FOX News =
+Bios</A>=20
+</TD></TR>
+        <TR>
+          <TD colSpan=3D7><IMG height=3D5=20
+            src=3D"http://www.foxnews.com/images/clear_dot.gif"=20
+        width=3D5></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=3Dtop rowSpan=3D3><A onmouseover=3DcloseShows();=20
+      href=3D"http://www.foxnews.com/story/0,2933,90747,00.html#"><IMG =
+height=3D180=20
+      src=3D"http://www.foxnews.com/images/clear_dot.gif" width=3D40=20
+  border=3D0></A></TD></TR>
+  <TR>
+    <TD vAlign=3Dbottom><A=20
+      href=3D"http://www.foxnews.com/other/schedule.html"><IMG =
+height=3D47=20
+      src=3D"http://www.foxnews.com/images/clear_dot.gif" width=3D103=20
+    border=3D0></A></TD></TR>
+  <TR>
+    <TD colSpan=3D2><A onmouseover=3DcloseShows();=20
+      href=3D"http://www.foxnews.com/story/0,2933,90747,00.html#"><IMG =
+height=3D75=20
+      src=3D"http://www.foxnews.com/images/clear_dot.gif" width=3D718=20
+    border=3D0></A></TD></TR></TBODY></TABLE></DIV>
+<SCRIPT language=3DJavaScript>=0A=
+	var cookieName=3D'foxsessionpop';=0A=
+	var myDomain=3D'foxnews.com';=0A=
+	if(document.domain.indexOf(myDomain)=3D=3D-1){myDomain=3D'';}=0A=
+	if(myDomain.length>0){myDomain=3D'domain=3D.'+myDomain+' ';}=0A=
+	var ck=3Ddocument.cookie;=0A=
+	var id=3Dck.indexOf(cookieName);=0A=
+	if(id<0){=0A=
+		document.cookie=3D cookieName + '=3D' + cookieName + ';path=3D/;' + =
+myDomain + ';';=0A=
+		document.write('<SCR' + 'IPT LANGUAGE=3D"JavaScript1.1" SRC=3D"' + =
+OAS_url + 'adstream_jx.cgi/' + OAS_sitepage + '/1' + OAS_rns + =
+'@x01!x01"></SCR' + 'IPT>');=0A=
+	}=0A=
+</SCRIPT>
+</BODY></HTML>
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/banners/logo03.gif
+
+R0lGODlhcwBIALMAAMUBAQQFCHyAiUBAQCdChv7+/t1qagAAZhcgN+DZ2bK0u1tbWx0wYu+2tik9
+cNre6SH5BAAAAAAALAAAAABzAEgAAAT/8MhJq7046827/2AojmRpnmiqrmzrvnAsT0Ft33iu73zv
+1zPOb0gsEoOb2mDJXBae0IKiOVBEoVOqdsvdApEZpXZxfQqa5PKjy25Tv+CLmCpQU63ls3vfhccr
+c014UVlLaVeFfIpNfn80AVsJZQuCZQWLmIwBjhaBTHZNlnqZmI2cngOHWJUFAj5UCDYICEs6S7E5
+A6aOqHVXlJ9mvqJMAQgCCskKC8YBg1KQAQ9RxZucFKjPBQ8O3Q6DAsN5tAHiUA/MCL/lhJC61tcS
+gd2ShAT3BFHhlmY19fzMxD0IcIVWLXjxanTDl+8Kw2f7+Ln694TiE2ZXpkERYPBdvEcM/wmYe8Dw
+SsQnypKdRAmpDDt+7g5+lBcgpDkB+G6KyzGOoElpojp6nFkjpDaGGqEs2MmgKa08usokaJkxpkyi
+NZFGIXlv5DFqTcy1YuDzSg1tC4QO/Vi0pD58Sc18taRArACyloyZU7s2YdauDgHbm1umbh68Lsti
+sdr3WlvBT7gSiFvgHmFEdhGbFXtJ6K4/jwlAhGzGsrhw4SgdVsyS31RNMw+Ejgt3K77LxmbFosyR
+dYEF2qKkrRY7tD2RgU1H+UuAgaqL2h6oo7Y15uc4j0/fi6uAIe6QzvhRg/hS7lW2f5+RlqwcCvPm
+4cWrPhet4Hm/+AZ1n/zW+86Q8HE2Rf98F9GCgCoKRIOQY3+9Jc5+3nkGoGUBLFXXGc28QYADurzR
+2CkNQrFdFBM60NSJDEyIDwO6IeCAivhw6MWCIELWnXYw5qhjjibOWFxW4Ij2jg0pEmAEDk3hQAAu
+slhlDHFYjfjEPZcMMtA9ZbkiHoEcEYaAkRoluEBcaxh0HRhtYSFalfp8maVv7g2jQCyDLKCZAM9B
+ASV6BByC0xNVFHQnnE9QVcBUirkygFLiJfghLzUNsyab7bx5Dmrh1LDcoosNo8oCqpBDI6STdqdn
+cBj1gwUCKJI1SCpm4ZHAMIgCl86joNWkETJQIBBcAZaydAOLnpoTaCvmLFPUfQw2RNL/Yr8OoyUW
+ygzQlJ9oKcVpHgEwgCt2FaKEB0kESkSotUtiUViv5bbjwJlI1OCLtEbWKcq5KfqWAGUDkcXZJWSN
+mqsVD+CxH4ED2FVWAoyk6Csi2iTIYg3AmYTLj9MMgg/CAVg0rRSsntjeRjdVqMADA9WQVG8Cg4tS
+aVi++pQ+ZSWopLdXOEGNYlOoche8QRi6DUMIE0vzlliaxZoxv/b6bstoblsZ0a/muzKhwGL5j81b
+B/AuZRu5CXW820IYs54p4qwqTJaBM4vbzT38E5ZjB80pe1guFQ6reYejC6aAZ+UtatYO7neRZCWM
+2iwb1z0DVTiFxGKLL27Y4uWY3+PA/+XdXC65bgxUTndxi5q94+mop0604zK0pPrrsO8I9OMJx277
+7Y3HBsDuvPfu++/ABy/88MTvrnvxBiRf/PLMA5+8AbwfP7wBTzTQ/PXNQxH9TL0n38D30ANAfQEN
+eB/+7gZ8X374zz9fPvrtr8+79+Dzrr3x3O/egFTiW2L9+FdIQP/KAL39lUF//APA/QBwPACWDwoP
+tIT41Jc8KFSQfwa8wgUL4L3qKfAJ2/sI+ioCv+fdT3vpswgHxydAAALAgAV8wgYD+MEChDAeIzwU
++sA3PuvVsIYJiOAKPehCGA5wg+pT3w/xJ8IBki+DEfShBSGYPgv20IkvlOERAUi/70gtkYH5yyIN
+r/hDFcrwikXU4vhiSMAvSk986atfCec4wfW1r31zfF4J2RfH99ERjE3EniAHWbzYGPKQiEykIhfJ
+yEY68pEriAAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/banners/sec_top_stories03.jpg
+
+/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAOwAA/+4ADkFkb2JlAGTAAAAAAf/b
+AIQABwUFBQUFBwUFBwkGBQYJCwgHBwgLDQoKCwoKDRAMDAwMDAwQDA4PEA8ODBQUFRUUFB0cHBwd
+ICAgICAgICAgIAEHBwcNDA0ZEBAZGxYSFhsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAg/8AAEQgASAI6AwERAAIRAQMRAf/EALoAAAEFAQEBAAAAAAAAAAAA
+AAACAwQFBgEHCAEBAQADAQEAAAAAAAAAAAAAAAECAwQFBhAAAgEDAgIEBgwJCAgGAwAAAQIDABEE
+EgUhBjFBEwdRcdEiMhRhgZFCUpLSIzOT1AjwobFTFVVWFxjBYnKiQySUlcJj0zREVBZX4fGC4uM1
+dLQ3EQEAAgIAAwUFBwMFAQAAAAAAAQIRAyESBDFBURMFodFSFBXwYXGRsSKigTJCweFiI1Mz/9oA
+DAMBAAIRAxEAPwD56r7pzCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKBQ
+ohxagcXqoHBUQuqBRwFB21UJtxFB23ioC1BxAOu1UPKqdZX3G8lEOKsOpbmPp+C3yaCbAuACNbQe
+3HIf9GicVnjjY+BeXD4eGHIP5ITRjOUvAl5eRpDJLi8D5vzM54fUmox/cv8AEyuWTxieCQI1n/us
+vQfQ/s+mqxnmWjSbOuBJkp2Hq63Ak8+/0mn0beD8dYynFOhzNrjEMLPHrljZlspAsvt0gnLkXMW0
+LKrLI1un6GbwcPeVJMSk7VuGNlnJGNIJezm84gECzH2fYFRJiVxBkdrCjLbSfCKxlHM2T+736DrT
+8ta7M4k2JfPYk+KttcM4k6JD03pMQsy4s4BJJrCYRIE7W6awmFgtpGKgDiSQK1WmIjLKGyxeV4Jd
+vh7RnizJF1FhxAv0AivF+oXznudHlQq8rl/c8NvNT1iO/B4+J9temu3X1uu3bwYTrmFaCUlZHBVh
+a4PA10xaJa5SlkHA1JQ4zgp7YrBYS4ZLAceqphkkxSX66wtVS4nHrDW8FYTAlmSwHE+7WrATJMRG
+xueA8NSasoT/AFlvCfofDXPyQr4Gr6xgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoC
+gKAoCgKAohQoFqaBxTUwHAwphCgwpgKDACrgGoUwOFuNUGoUBqFB1fw6aBQ/DgfJQLAJI9j2D5KY
+Q6qn8FbyVcCQgbh0+4/kpgPwJIuq5PE/Bf8AkFTCLbADdlKOsvj+8fjbxJWXKktCratnlXWQ+qwJ
+dr/TeC9qnKmOKWCgy8fXbT6rKrEWuDx6KRQwqomS6nhbruKnKuGh5bmWH1u5J1tGeAHgNSasLL3C
+zIhjqnnCw4ECsZowPZOVHLF2YvfUp6LdHGtc0WCRIha9+nw/+VZ8rKDglTw8Pb8lYspJ1K179B/D
+wVJRJEiEdPH8PYrCVhcct4R3PdIYv7KI9pKeoKParzuv2cuvHi264zLVLvuYNxkQnGO3ynTjxSlo
+MgFbKADYq4fpVuivBy6VvHuGNJ5jXgmYH5uWylurzT6Le0aRIjZODiZY05UKuR0N0OPEw41upstX
+sljMRKnyuWnF3wJdYHHspfNb2m6DXZTrPihrnX4KfJSbEPZZMbwyeBlIv4uFdmu9bdksMTBcOSnA
+E9XgPkrbgSY8lLdP4j5KxmCDkeVGJi2qwt4D5Kx5FSjmRFAQ1zbwHyVh5cpJl8ouhUKePC9jV8tY
+lI9cf4J9DT0Hp9ysPKXL4fr3kFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQF
+EdoOgUCxVCxRCxQKFB2iCiig5VBQdoO28XuigWFPse6vlqhxUP8AN+MvloHEQ+Ffjp8qqh9E9lPj
+p5auBIS46GQcVPpx+96OurhEpZJSpUyKVbiR2qeHV8Lw1cCSJJjx18RqHp/Cq4CnnEEZaaZIk6Ls
+9vc8PtVje9KRm04IiZWezbrt9pQM+IFivBpdAsOj09Na6dTpn/KPzS1JXKHK9VEkLSOhUlXUkqTb
+4Q4VuxVhiVhjiedyondQBckNcC3hOpawviO5a1yZfInUkds5t1hz/IauIR1MucqPnpPjt5ax5IMu
+nKyAPppPjt5axnXCST65k3t28nx28tYzrhay9T5JwMnD5WydwneUzboQiN6bRwnzdYDMvT46+Y9T
+2ROzEf4uzVGISEiEuqBNci6DJ6HmMU4XUEXHHp1Dga81sRtwTLTGjGPkNjli87TORlKkSBVKNCoZ
+7Sar8GsCvA0wqRg73umCitkIm4bSlw+ft2vLVR1GXHNsiH2eBFIlF9hbzh7hhjOxmE8HvmgYShT1
+q1uKMPAwFZRZEoSYudEYjoyYuuNhcj2jxHjrOJx2DP7jyThZQZ9vysnAnJuo7V3i8VibgV16+ttX
+t4wwmkSyu5cq807WNYklzIL/AEkEjnp9i969LR1mm3b+38WqaWhStk58LmOWbIjkHAqzuD7hNejX
+XS0Zji1zMh8/NVAVyZhxt9I/lqzoqZkpNyzyQPWp7A/nH8tPIqZlK/SGf/zU/h+lfy1Pl6+C80vm
+GtzYKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCg7RHRQdFAsVQsUQoUChQdFB
+2iOUBRRQdB9gUCg3sCqFq9veqfaoHVm/mJ7lXKHUnt7xPi1cmEhcj+Yv9by1coeTI/mL/W8tWJMJ
+EeS3wF/rfKrLIkJOv5uP3D5auSIRN2xnzoY2iQGXHJYIOGtTbUB7PDhXD1+idlYmO2rZScKuOXSo
+BRVVuNiOHiN68vh3wzlKgzcrEkEuHM+NIo0honZeHiBsayiZjsnCLrG5zy1ZRukK5SLe8sCiKa1u
+FwPMY+1et+vrrV/u4pNYldY+8YuahkxG7VLecD5rr/SQ8R+SvQ1763jMNU0mD8eWdPFfx1syxiCv
+WrdNSZSYS9qxZ923DGwIOM2TIsYt1ajxPtCtW3bFKzae4rGZe35GXi4xj2gFlxtvjjj1sgeFills
+wGllYdTKa+KvfmtMy74CxF4e0j1Rh7AmMl01vw9Nbujf0h7dYjuQmLDucOYJzibpt94XL6JI5IlJ
+eQagPN7QnzyaCmyIYoZ2zuYUyMDOyDL2O87QSkKwK5KXjToskiqzG96Kbk21fVMbc9tyU3PcWyUi
+O57dJHh5644F2R41OnJmtxCyL0UwjkOTlgdlBINxkYgiNVOFucQN2+cxZCI36OJRx4qC323f8vIm
+MChc0xoGki0tFkpx46oXtJ0HqU1lEmGhx8iOdTJjSCRBwbT1HwMDxHt1kiJuGzbXui2y8ZGccQ4F
+jes9e29JzWZhJiJZHdu7xz5+2TWQkEowLW9zjXp6fV714XjLCdUdzJ5uy7pt0vz8DdkOPaL5yWHT
+cjor1dPqGrZ2Tifva5pMO6k+Evo36RXZljh81VizFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQFAUBQF
+AUBQFAUBQFAUHaIKDooFCgUKBYojoqhVB2iO0BQFQdoDhVCgB4KKcUJ7P4vlUQ4oj9n+r8qqH0WL
+hcH+r8qqHkWI9Kt8UfKqh9Fi+CfcHyqyhDyJFw81uPsD5VUOosfwaZU+ojAPmn3auVR8vD7SKSbD
+AjzVGpSeKtYcQQbi5HQfdrj6nTOJtThdlE+KlmyzDI0WRCGt6SOojkVvfcUt1+GvI2b8Ti0f6T7G
+eDYmiPnLfR1A9I9zprV5kT+AXGzQSCfHYpMvoSKeNImYnMdo0e0bwmYfV8kaMtRe4uFceEeSvU6b
+rOf9tv7mu1Vv5t+JauyZapbzuwwRHk5nMUqaoNri0Y7G/wDvMvBdPUbLevH9W34pyx2y26a8ctpF
+kYKyyhoipZmZpSbsS5HEsPN6z5tq+dw6UiSWXZw2bA7LlOSkcc4KkO/EsV98FA4W4GkBI3/BzMlZ
+NxhjxZJF+dy8dCGEhHTxuH4r+UU5gbjBuUUa4OwZaZE+TpyDIj9ipiiGkBVbUuo9FjwI4VZkUcmb
+lHKjTddryMLNxsgzw5mDEIZxP2djIyWMcvmcOB6DUFxJefEb9J4y8z7azNNE8TFNzhMmokcdIKgW
+tY9ZqxIdix9szMvF2eGeTNbHKyjF3RWjyo0liEi4+PkLZ1kijGvTfhcUVEhyd221sg7xkCDccOLt
+39ZLr/dbKyqMwAo7x69BDg3PQaItcLmWZ5kizESMS+gMhlx3bjw7OUkwy+Dgw41lEjRYuXBI5iu0
+c/T2UgKSe0D0+MVRD5hOBFs2dkbiFGNFjyPI99JtpPXVrwmJjtSXzf8ApeH4TfQdpX0XzE+xp5VB
+yD3P8zd423ZO57Jlbfj4+HP6tIubJMjl9CvdRFDMLWbw1u6nrqaZiLRPHwWtctV/C53gfrHZPr8r
+7LXN9Y1eFvZ718uR/C53gfrHZPr8r7LT6xq8Lez3nlyxe591fNW3c6xcgxLj7hv06JKpxHYwBHUu
+WaSVISoRRdrjxXrrp1tJ1+Z2VY8s5w2a/dd7wGUMc/ZUJAJUz5NxfqNsUiuX6xq8Lez3svLl3+Fz
+vA/WOyfX5X2Wp9Y1eFvZ7zy5Uu8dwvOGybzsmx5Wbtb5fMcs0GG8UuQY0bHj7VzKWx1YAr0aQa3a
+/Utdq2tET+37eKTSV1/C53gfrHZPr8r7LWn6xq8Lez3r5cj+FzvA/WOyfX5X2Wn1jV4W9nvPLlie
+fO63mvu7OO++xwS4eWxSDMw5DJCZFFyh1rG6tbj5yi/V0Guzpuspu/t7WM1mGNrqRZ8vcv7tzTu+
+NsWyQHK3HMYrHHcKAFBZmZjwVVUXJrXt2111m1uyCIy9UX7rveAyhjn7KhIBKmfJuL9RtikV531j
+V4W9nvZ+XLv8LneB+sdk+vyvstT6xq8Lez3nlyzfNvcrzTyZNtEG6Ze2zPv2YuBinGlnYLK5UAya
+4I7L53Vc+xXRo9QpsicRP7Yz9uKTSYaT+FzvA/WOyfX5X2Wuf6xq8Lez3r5cj+FzvA/WOyfX5X2W
+n1jV4W9nvPLlV8y/d75z5W2LN5h3DO2mXC26Ltpkx5shpStwPMD46KTx62FbdPqmvZaKxFsz+HvS
+aTCFyZ3G87877THveB6ngbbPq9Wlz5XjMwU6SyLFHM2nUDxYC9qy6j1HXqtyzmZ+4iky0P8AC53g
+frHZPr8r7LWj6xq8Lez3r5cj+FzvA/WOyfX5X2Wn1jV4W9nvPLlS8p9wvOHOOzJvm2Zu1w4kks0A
+TJlyFk1Y8jRMbJjyLYsvDjW7f6lr125Zift/VIpMrr+FzvA/WOyfX5X2WtP1jV4W9nvXy5M5f3Y+
+8TGx5J4cjac2RASuPBkTCR7dSmaCJL+NhWVfV9Uz/lH2/E8uWO5H7seYufN03DZ9skxcHO2ldWUm
+4NLFYh+zKfNxzHUG6QQK6uo6ymqsWnMxPgxiuVtyn3Ic184/pT9GZm2w/oXPl2zJ9ZlnXVNDbU0e
+iCS6ceBNj7Fat/qNNeMxP7oz9uKxSZaH+FzvA/WOyfX5X2WtH1jV4W9nvXy5H8LneB+sdk+vyvst
+PrGrwt7PeeXLD7l3Yc0YHO68gRLBuO/uI2HqjsYNMkYl1F5UiIVE4sSK7KdZSdfmdlWPLOcNun3X
+u8EqGOfsqEgEqZ8m4v1G2KRXJ9Y1eFvZ72XlyV/C7z/+sdk+vyvstT6xq8Lez3nlyyPP/dLzH3cY
+mHmb3k4GTFnyvDEMKSZ2DIuo6u1hhFreCurpeupumYrE8PFLVww4rsYOigUKBQoFCiOigVQFAUQU
+HaDo/DhQLC/hpPkoHAnst8U0Dqx+y/xDTIeSHo4v8RquUyeSEeE/Vt8mqZSEh/pfVHyVcmTyJHw8
+7+oKuTJ6NUA9M/FpkydVR8I/Fq5MnUUFguogE2vpPXUmTKoyJ8XIyHhzIyyvJwa3EBgAfPuGHEV5
+ezZS1praGziH5dikLerytBCSPTj1t4gAUA8da7enxP8AbOITzTb8v5cdxjzpIo6Nd0NvFZvy1hPQ
+Xj+2YWNkFYexbgmXFPOyRrE2okNqJt1CwrHX0eyLxNu5lzQ063dwi9LEAeM16k2aZh7fHta7Ls23
+8tB7vjR+uZciqQGmlOrTw6Qo4Xr5Lq93mXmXVSuIMRwzM6RECRdYHmqb2Nm87T0A1zMi85rziKME
+xYq6I9d5bjTdizDU3mg0kNYSFlKdogfJ9ONk7SJwpuNDDipC36LG9IDC7o2LuJy5YnxIQox4siFg
+18cdRJVtA80HiOnrqwJ02+ZP6NORgbr67g5BWTVlxg5OOsZueylQaGBC6OPEE1RR4c7KrZe2pkDL
+E4RsYus0MrT3J06tL+Y3SKmBfY8uHm43rO540eU8UjQuUNwJtJjcwZH0ikKtuPRa1A6j5au+PhyQ
+b3g5WgZe3bw3zqogGiKOUllY34i9XIfnxdtlyUxjOux58MHYrtmY0cuO3bxlzDcrq0RSSB9V+LcK
+Cu9U3rY8dIt3klxMJVJ9YjjfOwmYXCv5nnxalI9HrqjOd73MGZg8uYnLTyh8/eJO2m0SGRRirxTS
+xVW0vccG410dPXmsxtLAfoVvgn/cb17PJ+jVl59svOPNXLkEmLsO75m2Y8z9rJFiytGrPYLqIU9N
+havS2aKXnNoiUiZh7l93PnHmrmPmfdMXft3zNzx4du7WOLKlaRVfto11AMemxtXj+q6KUpE1iI4t
+lJmZeec895HP2DztzFg4fMW44+Hi7vnwwQx5DqkcceTIqIoB4BVFhXd03Sap11maxnlj9GM2nLR/
+d+3jdd/705dx3vLm3HPO1TqcjJcySaVeIKNTceANaPU9daaMVjEZWk8VX3od4vPW294G/YG37/uG
+JhY2Y0cGPDOyRoiqAAqqQBWzo+l1W1VmaxnBa05ZP96feP8AtNun+Jk8tdPyen4Y/JjzS+pO8D/+
+hd3H/wCfuP8A+qK+d6X/AOWz8I/Vut2wq+8Lkfvd33mSTcOTuZotn2RoYkTEfLyoCJFFnbRFDInn
+H2a2dL1GilMXrm34R70tE9zL/uv+8N+28H+YZ32auj5zpPg9ke9OW3im/eCM23d0+xbTveUmZv4y
+cJJpgbmafHxXXInXUFaxY9NvfDw1j6Zx32msYrx/XgX7Hy9X0LU9P+75vG2bN3j477pNHjR5mLPi
+QyykKgmk0sgLHgNWgqPZNq8/1TXa2nh3SypPF73zH3ac87zveZue294e4bNg5UmuHbosdmSBdIGh
+WXJiBHD4IrxdXV6q1iJ1xM+P2hsms+Ks/dD3j/8AdPdP8LJ9srZ89p/8o/P/AGOWfF5B3w7B3h8m
+521nmDmLJ3/BMjZG1ZzPIDFkQlS3zbM/ZuLqRZj4+Fep0G3VsieWvLPewtEwyf70+8f9pt0/xMnl
+rp+T0/DH5MeaXvve/wAz8w7P3RcsbvtW5ZOFumZNty5GXDIySyCXAmkcOw4nU6hj7NeL0Omlt9qz
+GYjP6tlp4PnrcO8PnndcObbty3/cMvByV0TY807vG69NmUnjXuV6XVWcxWMtfNL3zmbe925e+7vy
+9n7Hly7dmnH26Pt8dtEgV1uwDDiL2414unXW/V2i0Zji2TP7Xhf70+8f9pt0/wATJ5a9j5PT8Mfk
+180vdfu1808x8zf9S/8AUG55W6eqfo/1f1qVpez7T1nXp1Hhq0LfxV4/q2mlOXliI7f9GzXOVt3c
+YG9bp3M5O38u5Y2/e8nJ3FMPLZ3iEUnrjnUXjV3Xh4BWrq7Vr1ETaM14fotexnP3X/eG/beD/MM7
+7NW/5zpPg9ke9OW3i2fdlyd3p8u73k5nPHMcW97VLiNDDipk5GQVyDJGyyWmiiC2RWHA9dcvV79F
+6xGuvLOfuWsT3st3PZGNld8XeFkYjLJjyTTFHS2lv72bsCOkE8b9ddHXxMdPriftwSvbK67lYZMj
+E59x4pWx5ZuY9wjSdPSjZlADr0cVJvWr1CcTrn/jC070j90vO3/cve/iH/bVj89r/wDOv2/ocs+L
+P89clc88ncp7lzLF3h7zmSbbGkgx21Rh9Uix2LCVrenforf03UatmyK+XWMpMTEdrzvuR5wMnepF
+uvNm4tNl7jiS4SZ2bJc9qQnZK0j9F1j0L47V3eoaP+jFI7JzwY0ni9u5j7tOed53vM3Pbe8PcNnw
+cqTXDt0WOzJAukDQrLkxAjh8EV5Grq9VaxE64mfH7Qzms+Kt/dF3jf8AdLdP8LJ9srZ89p/8o/P/
+AGOWfF45308s8+8rzbfjc07/AD8y7RkmR8DJlZ7LIlhIrROz6G0sOhjcV6vp+7VeJmleWe9rvEw8
+sr0WJQNEdFAoGgUKDt6I7eg6LnoF/FUCgr/BagNEnwG9w+Sg7ol/Nv7h8lMo6Ek/Nv8Ah7VAvs5R
+/YSe4fk0yFhZB0wSH2v/AGUQpSw6YH/F8ioHFkI/4d/xf7OqHlyAP7B/jf8Ax1cocXLjH/Dn22j/
+ANlTJg6u4L1xPw/1q/JpkwdXcUH9m31y/Jq5MFrukX5s/XD5NMrhIxdwglyYonjJSR1VgJreaTY9
+Cg9FY2ngsRxTt0xdo9ZVlx0MciLIqiW6iNm0jS2n2+mufy627YbpogLusIGnQAB0fPX/ACg1uc2C
+hvEPWo+sHyanFcFDeoR71PrP/CpOTi2ndbDHvfM6ZMsKPt20Rtm5bMe0Wy8I1tbpZyLV5/qG3k1/
+i2a65l6nJ224GXLAed7s0iA/OAFuFo+nTpr5mXSXFpjgmyHid2xAjwgEC5Y2QOLdWq/8lIFXitkx
+OkkfbY8vaBDNGezuFGpnZetipvarMCd6yWhed+z7dm0pkRxlHYJYsJACBc/CtQdgMkcKsIlnxQT5
+pHbIALlug9on5KQIcuLtirJjrG0SzkSSPEwKX46SqDSH1WB48bUgSYkeKLtooIsiHHDypJhfNyK8
+i6BI8DcTYL0CkCRkY4xoMfDFljESyaWXT5584GQdTdft0yI6RCJ+wnilQ2RFANnZ731KT08DUgXm
+4YcZ29NuzsftsGGPU/bqXEjdoCCs6nh0+jwrISNnxNv2bMkZHyIcc4zKMJpC+GgWzO6K3RdVtxv4
+6D5q5s5sg5o50zd1knjGKknYYoZrBYojpFhY9PTXr9Fp4NV5Xf6c2/8AWOF9F2f0kno+D6KvT5Ja
+3itd6vY/u275suxc07rkb3uOJtePLt3Zxy5s8eOjP28Z0q0rKCbC9q8r1bXa9IisTPHuZ654vOue
+8jHzOeOZMvElTIxcjeM+WCeJg8ckb5MjI6OpKsrKbgjprv6aJjXWJ+GP0Yz2tr93nd9p2Xn58zec
+7G2zDO3ZEYnzJkgj1s8RC65Cq3Njwrk9Upa2rFYzOVpPF6nzByN3Dcy71mb9uPNmIM7cZTNOIt5w
+lTUfgqdVhw8Nedq6nqqVisUnEf8AGWcxWVcvdX93gMCebMdgDcqd6wrH2OABrP53q/g/jJy1Tube
+8zlDd+9PkrGwNzxZNu2SbMnz9zaVUxEaeAoiCdysZto4m9uIF73rDR0myui8zE5tjEd5NozDC983
+edvsPPE6cnczynZPVscodszA+P2mnz7GJmTVfprs6Do6+X++v7vvhja3HgwX70+8f9pt0/xMnlrt
++T0/DH5MeaVHu+/b3zBkDL3zcMrc8lRpSTLleZlXp0rrJ0j2BW7XrrSMVjCTKvrMbPuu2LlHmHmZ
+sDnXPXatnGJLKMh8mLEHbKyBF7SbzeIY8K5es2bKUzSMzn8VrEd72le7nuIRQic7BUUAKo37EAAH
+QAK8n5rqvg/jLZy18Sh3e9xQIP8A1x0cf/v8Sp811Pwfxk5a+LKfeL575a5iTZtg5dzY90G2tLNk
+5UDdpECyqkaLLxEhsCSQT1V0+ldNembWjGWN5eGV7DB9Bd8fMnLu6dz/ACttm2btg525Y023HIw8
+bJimnjEeBMjl4kZnXS7BTccDwrxOg1Xr1FpmJiOPd97ZaeD59r22t9X7Rkd2fNfdPy/yrzRzJt+G
+sWHiPPAu44uPkRywp6LiRiVsTxBFfN3jdr32vSszxnultjEwpP3Vfd5/a2D/ADrB8lbfner+D+Mn
+LVoeXc7uZ7oNs3XP2HmHH3B85Y2lx486HOnlbHD9lHGkHo3Mp4kW8JtWjbXqOotEWrjH3YWMQy3K
+/PO27X3DZ0eLvmJt3NX99lx8WPLjjzVkkyi47OLX2vFTw4dFdO7p5t1UZrM14d3DsYxP7XlGB3wd
+5W3ZUeXHzFmztGwPZZT9vEw61ZJNQINelbodMxjlhhzS95w+8flbvV5AnwN15ii5J5hK9lOfXRh2
+mA4PHrePtseT3yX4dB42avGt0l9G3MV56/hn7S2c0TDDdwOZs3JfOHMWHv8AvO1Y0aYqQxZvr2P6
+rORKGBgmLhHuvG3SOsA12ep1tt11msT2+HFKcJavul5k5Phw+d8Het827Ah3Xfs4xdvmQQNLjzrp
+7WIyMNSkHgwuK5uu1bJmk1rM4rHctZjih/uq+7z+1sH+dYPkrL53q/g/jJy1H7qvu8/tbB/nWD5K
+fO9X8H8ZOWrEY3JXdXJ3pZnLs2+RryVDgrPj7l+kMYI2QVjJT1kjsm4s3mjjwrsnqN/kRbl/fnsx
+P6McRlv17uu4hFCJzuFRQAqjfsQAAdAAri+a6r4P4yy5a+JQ7ve4oEEc8dHH/wC/xKnzXU/B/GTl
+r4sr94rnvlrmJNn2Dl3Mj3Qba0s2TlQN2kQLKqRosvESGwJJBPVXT6V016ZtaMZY3l4ZXsMHRQKB
+oFCiFCoO3oFBqDokYeibH2OFELGRMOh2HtmoYOLl5A6JH+MaYMHFz8oC3av8Y+WphOU6u45I9+3x
+j5aYTlgtdxl67Hx1MJynhuUnwVphOUsbk3wE9wVMHKWNw/1SH2hTCcpz16IjjEhb+gtvy0XBXr6n
+piU/h46q4dXLjvxx0Yf0bUyYPpPGYmlOLGQrKunR03B6/aplcEnKj97hwj/03pkORZCK8YEUGOZi
+ySO0YISM2UkauuxNYzMs6wtH3COVBj+sxtpXzF9WgCAKQFFwTasMNuOHaq4rSa2OJGoRSR82PSA4
+DorKZaYqb1ydeJGPY7JfJU/qnEks17nFi8XZqKhxbzkrnnB2PZp9kmhgwzmTmSab6NpFCgIuvios
+fDavF9S1XtbMcYbtc8HoOJve2bgqyB+xk0KdQIU3XosL+cOPSp415OG1e5kPbYURzWyNDEOuVHGr
+w3PBLqbPfh03vUwE4b7hgQynHaPPwGAEiOvbRFlNvPv86nm9ZHCgrc2THlnc4kIhgVGSNI3HZ2JJ
+OkdNtVOAlY23TSf3iLIin7OLTNMknZTxi4Lakbi1vCOFBXzTNkyyzMgZ2K62Q2ZUU284X9Lh1VJE
+7Ex4jL65BIuRDEDkBGBV1k1WVQOoF+HT0VQ/HuEzzB5xHlLJrDicaiD0EXFjpA4UyJc0+GcN/U5C
+GPmJFI6skbkglo2bz1dV6jQV2NmZeKyLFOZAW83WbEg34aSbeOoKrvO5tXZuQ58rHT1Xcd8c4UCI
+x0Ff7SZU97wv0Vv1V5pSZfP21dnEqloIm6PSRT+UV9H0+vFXPaWq9fg/5KDo/NrW3H3o8nrsZCgK
+AoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoCgKAoC9AXoO0ChQKBoFCoFUBQdogoO3qDo
+NAoNRCg9QwUHomCxJUCxLRMJkWRII1AyezB4BLN/IDWMssFCY3v62AfE/wAmh/Uv1p7WOYxHgGu3
+46mEPdt/cy3rDG8oGrzr8FPs+zTvXuM+sD8+3uHy1UdnzooooUL63u7sWFzY2ABHneCtc7a1ni2V
+7CRuuOWJIQcLCwI/kNTz6eLLPFPgyop8LJm9FdKReYL2Be/C+m54VeaJxhJ70DVj34NIR4bAf6VZ
+cWvgC8HVrPjsKhwNyriyLYh7+MeStd9fMsSc2/cdx2mRRts8qIWF4mYPEST1oQRXn7uiiWyt222f
+vYysSX1fc2lxmU6GljLSREKT6QN3H9avN2dJaOxs5np+zc87FuGKMiBYfW1sqTo57N7/AJxVNr28
+Nq5ZiY7VTSMTItYCEsBxQ3isfN4++tWAkvCuJBJK49cOQiiM4bgsqBgXJHTcW6KyDGPj4O5BX23M
+jbLjuxxpx2DgqQ3zTEWI/pUwLKeDNjxI1yoymRMGado0ADKDpjSRVJsR6V7WqCJEYFOnKQTRmxMs
+L3swvp08OIJ6QeuqHpFTUIcdu0MYFi6j6R7l9fUptwqBaY0wyoIGi0ZMzqi3TUNVtJ4n3ao8R77d
+8G7c5Js+KwO2bFCuPEiej2h4yG3hr0ui1ZnLXeWOibQFAHg8Ne/EYhoWPbH8VQf/2Q==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/clear_dot.gif
+
+R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_fncshows03.gif
+
+R0lGODlhawAQAMQAAEREj3V1rO7u9RAQcJmZwt7e66qqzImJuCAgeWVlozAwg87O4lVVmbq61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABrABAAAAX/4COOZGmeaKqubOuOUCzPdG3feK7vfA89vqBwSCz+jMhk0cFsOnNApXSa
+c1odUKGiwW0kDg0GJOGNBRqGBA1AaBAUkO0h3piPDWkIwg0BD8gMA2cNAVUOJkxZQQAkZw8Cgg+F
+BA8FBQ92EAMCBQECkIwNEKF9JHMCQKgADQ8KAQ8EBpI4TIhYOFE+pDGssK8BA5WafDEIjwkDMYwL
+AK8NwZCbDwOyDCIBC0CUBnCGtoq6j1wQrJesAbs1niJzjCQNu6zNmA9u9XrZld02tSWJuEIYCRjH
+igEqSQqEQQhQqBgABAlQIWDUiVIDYwViXJooosABVIUAPJRFgNYhf7duZOTqkU7eq1ms8MCSQXHd
+AFKkWC3IJurHgzQiAJCDJStTjX4k/qkMeI/XA6Hn9MgSQCCZjACXFojBeW8AgU9VnaITkUzB1LA3
+rjwBSKWtWwhqm4B7S7fuXLt4877Yy7ev378iQgAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_topstories03.gif
+
+R0lGODlhYgAQAMQAAHV1rImJuO7u9WVlozAwg87O4iAgeaqqzJmZwlVVmRAQcN7e60REj7q61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABiABAAAAX/4COOZGmeaKqubHtCcCzPdG3feK7vfO//wKBwSBw6jshkccn0JZ8OXWM6
+HUAMgUbAAKM2ALPBQasgeBuEa3bbpQbKWkiWmhaTcUfTUVcCGAQjAlwiDQsPYDAMD1qLiiQMf4GD
+i4YBig0QDQ8FUwSXAYt4DnpROpcwoGAADwEQIhCnMAObCTKriKkQq62vl6eaDDGzBbU5eSV7pqGZ
+D8GnIgAHrDLSDwJWuoddzbCh0NIJvyOYENXXoqQ7sQgPVrMIriMHCjGeBqsLMLcw7O4P8IQWXBMH
+gEEae/jQISuVI5YiAQ0ABXtFYxWjAvq0dYMoMV63BuIQAChoERTGG8dIPCRruAxCggK0YFCcoQAB
+oANpsiFyCZOYzAfdCogbAaDmzZw2oChpwrQpDaVInEqdSrWq1R8usmrdypVrCAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_politics03.gif
+
+R0lGODlhTQAQAMQAAHV1rImJuO7u9d7e61VVmTAwg87O4iAgeRAQcKqqzJmZwmVlo0REj7q61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABNABAAAAX/4COOZGmeaKquK+S+cCzPdG3feK7vfO//QIhjSCwGj0hhcXkrNJ4JgusQ
+aAQOrufLGXA+n4VqwQVoJBbTatQ2NA1vjIegIXgwDnWRACt6xRtxJAwNdhAKDwMDDwEQhAAGhTRt
+JW82fxAADwABmpiLEH0ul54AWXYIiBAIDQoQigBYbA5uDnCIjw8EhAwQl6G9Dw1knY12oy8EisEI
+NZMklTWBcoyHaAsPrb+jmaXFDAWpmAAI3wyQaJKzlLWWwTBxc3W8Ik8B28S7xQkJ2Ah1uFLS0bIl
+DAYBSAYCkgDkjpQpXgf4CVDA7OAtWUuIJNnoI6MRjiBDihyJhIXJkyhTA54IAQA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_business03.gif
+
+R0lGODlhUgAQAMQAAEREj+7u9aqqzBAQcN7e65mZwiAgeVVVmc7O4omJuGVlozAwgy4ugnV1rLq6
+1pkAAP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABSABAAAAX/ICSOZGmeaKquLBm9cCzPdG3feK7vfO//wGDvQSwahcjkzMh85BxQR2ER
+gb6sgwa0cXVEEo5DROFQVKNeA1ggjgAKUqqNaCLmRA0BRBARvfwNEAV6XH4OEAFZEIUQUVWLCBAA
+AwEEDQGJcw91Tjh+BxAJfRB/pAV7cqOPgoGMMQSLBi8GiAoDOHQldp4kAKqqBpEQBFSGw42Lo3gR
+B7CNt5ciopqcd5KgBL9+AAAGegWqhwcByyLcBgMACwCRCgbdCuSyNbkkuzd4CYgRegiRfIcGhQon
+KVAyPA0aMCDXINIBAMOi3aK3SVcnfCMImBlQAJOAWwv0BChwy5ivQ4xGJAA4EMnSiwawELSh2OSe
+kptBahbBybOnz59AYbQYSrSo0RMhAAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_foxlife03.gif
+
+R0lGODlhRwAQAMQAAEREj2VloyAgeTAwg5mZwu7u9d7e64mJuM7O4qqqzBAQcFVVmXV1rLq61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABHABAAAAXm4COOZGmeaKquJeS+cCzPdG3feK7vfO//MIdwSAQagcSk49ZoNg4QBaNB
+AEAAjQRkehg8X4FGAHJwNiDmc01oEt5IZwRpgX4wCgUB4KHe2usjECJONmwlbjYiLwt8Vw8IEAIj
+DI59DH8ND1YuijiGJIg1gw0Dl5SCDy4EnXuWmI9iqCKnNJ8joTSjAwEPBJEPBhADk5UvpnUIsSIA
+AAKFDm1LiakuCgV8Bq+reXsFTQHHmZuoDOXOtdCH0qLULgMJwJSXBgqrCXuT4ZovJeMySkWOCNwB
+cMjAgwgTKjTCoqHDhxAfhAAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_views03.gif
+
+R0lGODlhPwAQAMQAAEREj+7u9c7O4lVVmZmZwjAwgyAgeWVlo97e64mJuBAQcKqqzLq61nV1rJkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAAA/ABAAAAXQ4COOZGmeaKqiUOu+cCzPdG3feK7v/O78wGBv6AsabwRGAdJgAA6MA4RB
+pQ4YjSkBkmAYDN3FoPYz/W6JRzbwUDTUEFG18FCK4oGpWvAA0MolZzZ0dgtMcHcuAQEHIgB1EAhq
+BjaAJII2km9Sb1kkWQwPXQ8EcAOSdQp/DmYOOKVslJ1xfQCyIgQCbAAKAAUAfFIzliOYNQMiAi2z
+Ig3OBo9qpQ8QCmwNfGPDrIGuONfLiCR+jm/KEAN8CFmrRkBE8DfuQvH19vf4Oiv7/P38IQA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_foxpolls03.gif
+
+R0lGODlhVQAQAMQAAEREjxAQcM7O4u7u9d7e64mJuHV1rJmZwiAgeTAwg2Vlo6qqzFVVmbq61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABVABAAAAX/4COOZGmeaKqu7Am9cCzPdG3feK7vfO//wKBQ5igaj8OkcnZsOnCFhrTx
+UiwWitehwQhIE7CotBCABAyNA+AVBbMbbghge4jTiqYirkGCFEgFcg8Ef4EwfAICD1SKIwwQfGsv
+kS8BAwQGAwNlNXglejeUZg+blg9lByIEnJMPayIMi4ICkK6HthAIpAqsnQ55T6EPAg0KALK1a7oP
+BjJ8B38CBswvIsm3khCZIoa+wHvDxboELwQPCBALqr18IgIJCg8HuYPXrZIIAAgKA+c2niRA2RBV
+K5GsYwPUdbNnpl8Dc80QSSko5Rimfr2I/PoUbCAuMwc0HQgQAOKyOAQhJiRQh6nViFovDZgT8Oif
+EyNLciq5iVOnz59AgwqF0KKo0aNIVYQAADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_weather03.gif
+
+R0lGODlhTQAQAMQAAEREjzAwg6qqzImJuJmZwu7u9c7O4t7e6xAQcFVVmWVloyAgeYKCtHV1rLq6
+1pkAAP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABNABAAAAX/ICSOZGmeaKqua+S+cCzPdG3feK7vfO//QNhjSCwGj8hIcfmoNRyAgKMR
+cQiqjqzDBcgiIgOtYyAdRMpgcUChFSRsQ9PQCWk0IFDIVaR1EUQKVSR5WwB4ggZZAXcHDiJfNHEl
+czQBen8FCXURIjEFB3ovnRGGBgB3W44AL3dUqjWSJJQ0EImOf6skVJoDBhCQo4aDgnwRqA0FBnAP
+ck01jnUQBRAuIgAACxF/DQIQgZzUpBAHDX+pdVHG444OkDOxI7MzdxABoFvgdg0L0yNX4FwOGTpH
+wM6pTa8iMZvkjIYwQWbAjWAQCtyXYAIPQRNhByGENwqZyEtCUodIIiVTDapcyTIIi5cwY8o8EQIA
+Ow==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_foxsports03.gif
+
+R0lGODlhZAAQAMQAAHV1rEREjxAQcJmZwqqqzM7O4u7u9YmJuDAwg97e6yAgeWVlo1VVmbq61pkA
+AP///wAAZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABkABAAAAX/4COOZGmeaKqubJtCcCzPdG3feK7v9sP/wKBw6BsajzqHcskEFpHQKIxJ
+dThhjWzjABEAGoMAJNAgQL7c2IKwFUAO2oMbsiYsYAstgQHRZhdeWQA4SiZKVxAkDRAFJHwNDwAG
+BgoxAQ9bmH0PBY2LByRcAA8JkA8CJQCjAwSRN4Ulhz9FIjEMmpcFEAojg2qcfFgPYiKoBgICBqej
+g5Bil4sQAw8ECDmwJLI8tJgNCMwwtdLiMq0PBneQA6AF0MIBow2SumOau42k1jbYI9o73FkQLHgw
+YBcpCAh6yUAQQMGoBJtEFEDACyKEBA8ckoLUwI27MQ1bFdznwJCVWeGeXCTDhLEZwXOVYMRjt0lM
+DEidNIFzVi+aulZpavAT4U8Ht4WtEgx6KGCaGRhNlVWrKSOqgQFudj7g8xFBq6tzhFZZgkiKWSNj
+yaI8y7btNrdw49JwQbeu3bt4RYQAADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/search.gif
+
+R0lGODlhOwAYANUAAGZmZv///5kAANnOzoscHLuOjtLBwapYWKErK/X09Ozq6pINDZ0WFn03N6Q/
+P8qxseTe3ogiIs/Pz7BsbLV9fZYHB3BTU8OionRLS2xZWfz8/IODg4UpKenp6Y8UFPX19czMzGlg
+YHo+PqQ9PXdERIEvL3l5eezs7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAA7ABgAAAb/QJCk
+owkYj8ikcslsOiUfyQZArVqv2Kx2yz1JuOCwGKyZjs9ocCDNblvX7jgajg1FBPgKx0Lo+yMZfgQl
+fIJ7AA0VeAIehYJ9GW9aEQwGAQkPDA0OA50DBhEcCJ0XBJueDw4VDQIFCQEQDgsCnQejAwiRVXRX
+ApYQrwUEBUigFQ9GAwQRxEcJDBXECRABCgIORggTRgK6VLxWAtzbAwvID4uU0wHKC5YXDEYHAq8U
+4gECFJet7AJX4FXoBSjA4IADAQoGLlpATJ8yhAEoIMh2IBuDTgKQDaA1kMA/LdGMXBDQIB4SPAnJ
+ETAJLAA6Ytb8CKCGZEKDj1gasEI2cEFFynYDRm4zUFHZTyMKEHiwZGCBTlZKEJDA2atAAV/V+G3s
+w3GAxmGwZiqkdtUqgp8M9Fnz9i3LPQE/OY7EMxHJgAoDAlxYkNeePJMIYAq4EKApFoAAxBpgKvDI
+BGRENQq0l3BewsX9LKEjG+FwFg8OXlVzUPfIiFcTmLGre9DIhAX6kMpKSFDeTapWLCgyKGDWot94
+WAEHLkJAwYMLfAPH4FkLhucW5FAJ8RxD9DOIpWu3osHE9u9YOnwBTx4AFCnlvwsh4qS9+/dNggAA
+Ow==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_fea_links.gif
+
+R0lGODlhNgAQALMAAMzMzAAAZjc3gpaWsW5unaamuRoac0REiCcneoiIqg4ObVJSj7+/xl5elbKy
+v3t7pCH5BAAAAAAALAAAAAA2ABAAAAT/EMhJq7046y2b+EKDFeHmFBwnBGwgYIO7EW/KsRJhBEfh
+rEDGQuEqIAKARcBT2CketguuwEvwGgECVpAQEAg88MCAOB2y36gFByYAWKtBTFA4KI70gNINaMLV
+FVNVYUtKAmdfMjsBKAAJBANHjYBvSAA6PAUMK1sJCgZYCABYChNGAQoilKsUDGALqyQgUBsFAwwa
+MQaTajEtfBpxrClzpmc9lzsID2Asxc48BgMJCAoLDJssqrmoHwCfYwY/CzGlcc8BvghWB1YLYAdf
+uNwKH1Qt6QtkOOcy0KLNWCjIFkDchmISwH15ZQXJCkgFGxaj0o5AggIW9xyUIeHUOgcGE6ztcMXP
+xRGED3b0YHCGx7wJEQAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_fea_jobs03.gif
+
+R0lGODlhSQAQALMAAP///2ZmZgAAZoqKuUVFj7u71mZmoyEhenZ2rTExg8/P4hERcOfn8ZqawlVV
+maqqzCH5BAAAAAAALAAAAABJABAAAAT/MMhJq704642B/2AojmRpnqGErmzrAuorz25M37hofwih
+AAUDYcAA9AgEx+PDGCAHAAUSifAIoYApAVFk9AwFQIPQEJNHOw9BUHgI3oJEVmBACBafAd0hGBTu
+VAAMbwcebwQHAlWJCQsCD3pQkWgBImsFCWxzD5eDclYCDj9AAgQgeok/b6QEbgZAQ3pgBn2Ulmyr
+AJFrcFiCmQIHCn9wYZkNigBvA3yQtXlwy7ZqppeJRbRjfQXXHgUFDHxgcd8MgwduhYcHCw2yggPO
+Q2u+IDaZBI5NwWsLDGsGBjgaBZAPgj8HBijUE03Bqj8EGDhCcGzSJB2VPCjgk6CMrkSiMea8WVBF
+I58FBhgQg5Pphx47AkjJwRRMUq2LKTLm2IkjDc+fLXwCHWqCg9GjSJNSiAAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_fea_realestate03.gif
+
+R0lGODlhSQAQAMQAAP///2ZmZgAAZkVFj7u71oqKuRERcJqawnZ2rVVVmc/P4u/v9TExg2ZmoyEh
+eqqqzN/f7LCw0FxcnQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABJABAAAAX/YCCOZGmeaKquKOC+cCzPdG3fsYjvfO8Dup9w6AsSj0iZUTFoDgoAhHOg
+ABCaCwATEWM6uYfEALE4TAeARZMAOJunysCLIDAMDILHQMBoVhsCAgdWAmgwdHZjdGOFBYGPAAeB
+DQCPgY6FTXFzhQCOBXtsLwYOAgmEhpypkgwPMKEuCQIOBi6LLoE1RnQOBQwGEHuBaA8CCAwCC7eH
+lmyydYNtAmwLfAh5qLiPUDlytnV3DkwCBQR/5LIHy5wMBAQLCgQQjg4usJIJjpTLge4Qm9/QfNrT
+oEA5PI8SIGoSjZdBg4WuMbA3DcCzQLX4kTP4D8auTo6kWJJgSlsES9zoJ1ha0ABPgirS3tWh+EDj
+I1EvjCTZeUQnz59FvAEdyoOF0aNIk5IIAQA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_fea_oreillyfactor03.gif
+
+R0lGODlhWgAQALMAAP///2ZmZgAAZkZGkIqKubu71iEhes/P4hERcJqawjExg+/v9aqqzN/f7GZm
+o3Z2rSH5BAAAAAAALAAAAABaABAAAAT/MMhJq7046807+GAojmRpnmh6SmrrvrDKxnRtm/Ot73C+
+EANHAdA4HAbIAQGQSA4SxwcACYoCGEFAIfs5JhMAhxKEVS68yYNWTFgwnQxQTiGoCxjAggAxQNwJ
+AgZICXoDAHUghQALBgJbAmAfenYEDXUGHwl7dAqTdgUMdgIKAICCdW4AM6GGegp5AoaABLOJsYcC
+toZMgaMhih+mAmp0DWEDbrUAdEMDfwJLzkOqAcHQH3VFegYECggNgHZat4iStx/Ojr97VHSaUuUh
+yuWzgEoIpB8zmg5EgeZ8EBg4AEjIEEXxgF3xtY7PAEsGQmHyYyxBm1LXADQy5gCSKWfIZPRVW+Rn
+QKMl42RBs0eLELlYAx7ocehyly5rogiOevAPI8qPe35ckyayijNuNwE9CFdnAEI7TkURUGhuFx01
+Shc8KKnGJwgCjQZgHXqnKI+zaHGMTMuWbY62cHd0mEu3rt26EQAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/nav_off_fea_yourworld03.gif
+
+R0lGODlhSQAQALMAAP///2ZmZgAAZkVFj4qKubu71hERcOrq8jExg5qawiEhemZmo3Z2raqqzM/P
+4lVVmSH5BAAAAAAALAAAAABJABAAAAT/MMhJq704642B/2AojmRpnqGErmzrAuorz25M37gYP0MB
+LD1A4vFIeBIDIzLhGDgHhE8DChgsAIzBQUg0Cp+PBnbg8DSdC98nRhD0BAqsYC5gANpRfEFgGBgE
+YgAOboMCAHxydHZtCgNzB45qe3QCajABHwpwgAd8Bwd/B3h3AgR7A6RRHgYGCXOnnQafoaORkR6n
+clceNpOouVWVo3pwBAiyH45ZAgulwJFtUAYIwZJuAMCXIAiAAJ1xAJqipal7fQYKZR5tzMeV3x7i
+jI5at9jXrg9rmMmVHo4IuKEadE6Ag1yjcM0h0MxQsIDXalUC6MScn268+P3z520BqwVbLgA04IbA
+CMI6IF61odbx4xaJUyhNEoBAVcYcOHHayMnzxc6eQFFwGEq0qFEKEQAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/col_ban_efax.gif
+
+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
+QopLwBLRySFC0GfGDh64YkazQwQBADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/st_con_wht_email.gif
+
+R0lGODlhcAAQAMQAAP///5kAAOS7u5mZmbVFRdCKiuzPz8h2dvLf36YhIaAREfnv792qqq0xMcJm
+ZteamrtVVZ6ensvLy7Gxsezs7Pn5+aurq9LS0tjY2KWlpb+/v/Ly8sXFxd/f37i4uOXl5SH5BAAA
+AAAALAAAAABwABAAAAX/ICCOZGmeaKqubOu+cCzPdG3feA4PfO//Ep1w+BpENBXUxRgcGQQCA+m5
+AFABCIEIITUgRgso1Po1SLlbKSkregqqYTFWzW5/rVD1aUCxWDYlFRoRGBNNIgkBAQckiQIIiVWJ
+IgSMCQUjDAQBDQ4AlwCVoYwHCQmMI5MADQkNCgianJ6iBQoNDYiYn4qoewAVHhEfIxsWGRQAhiMI
+AVokC5wCBQQJAAINASIKD9DOWwFS3QDb4w/jUNki1+nNAAGYzGrb0Azub+3M3igDIxwDFwAoRJiQ
+JNkhBs30MUhAQEACBxAAODjQDJoBhCUwWgvAACECi58a3BExMSHHAuAA/2i0qPGNRoRjUvALmCHD
+wAEZLBRUJqIWAQJ4EEwj4MABgQLxTAKYVoLpUgXUFGxso+DVNwPNfAYwtxToVKc9vfr0ug9AhyMB
+LWCoMCECMp6jRkBoeJSAAgFZA2ySBlQUCb8QPB0AyvQAN1BL9TaDGMqrX6YQMAkw59evin//Tvgr
+dEjBgSgkFGhqgPXT52YQGHkGrY2rAkxHAaSWfWBBAq6n8DqEjYocbdoLYq82MPxyhA4pMEQY0ISZ
+Il1YAiAg8KBAA4RVml1yvkgEyHju6oEykECBJ5UBssMchwnkJ0zkAzhYwN2BoneXf+jvcYiI//8A
+BijggAQWaOCBCKoQAgA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/st_con_wht_printer.gif
+
+R0lGODlhaQAQALMAAP///9ORkbdKSqkoKMVubmpqaoqKitfX1+/Y2K+vr5kAAOjo6OS7u6AREfnv
+792qqiH5BAAAAAAALAAAAABpABAAAAT/EMhJq7046827/2AojqR2FEaqpuhSvnAsHQl1uECSynzv
+0ZNEoeCiFXzIZAUoKRwMNYnhIhgMHgDrIABoBAIKRGBAUJgDjTO6ipAgzGGCVQAQEMCKQZa+XQsc
+bw4EdAJ0IEwAKAVRAFMWWwwCbwgMYXEND4MAYwCBEgQEdVybehJbAAoMW6ASDg0DDnGhAgycDw2T
+H0+LE05QEwYoDhOxtQIPCqTIdQIBzQCstxOnp9CGxZOp1ZGpyc8DDJqoZCAJJ4wHDgs4jToHE5VV
+D2uYzqiDDQyim2Z0eQN/JAg4E49MJVRmjJHxp8/bKAENhn1wMmSFxWA6HG0yVIdAMTtvgrgNS7UP
+QCVBHEmSyvIFXDKBzkAqAJRMJSsQTjQwSGBuh8BQErygYuDFmSs9b4JiWWmv08yfouxwChquXoON
+nkpOfNfhl6lRbxYUk9UlFKc3ZjKFEjeVJctVZgZMAoOAQAOI8+CEDHFiiN+/gHMqGRzjgOHDiBOz
+I8y4sePHkCM3jgAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/st_con_wht_foxfan.gif
+
+R0lGODlhawAQALMAAP///6oqKtKOjrdKSsVubomJifDa2mxsbNLS0qysrObm5pkAAN2qquS7u6AR
+Efjx8SH5BAAAAAAALAAAAABrABAAAAT/EMgJFL046827/2BWhGRpnihwJEdbWGksz9tRIFUy0nyf
+3pSdb0jsACdCDSEQEAAci4WAwXQaBkzD0wFgLAiCaIASGEwM0YVBUGVwCWZAeDEmLCRlQBOV6Bds
+NggPEwoJEwMCDQNog09OdwNmAgJoZlgCBAQXDFgTbBJoDQALDwteWgCZEg8OAw+sAaWoJiw3fwgs
+Nn8HMKMNmG6gpHJ6TmCci0wNexSRdxJwEp9oAAMOTnjYAgMLDYrdzycIOwUFjQ/jvGetDg9zA8sU
+wwG/cGB3aaIAaF6HUZOaOKUaJiFfk27bAkRDMU6COnS1esmxpEibJgMG4slChIVKg3DSgBzYmdBN
+AqJUixwEYCDhY8sv3TgO0ITiwQEJOlwkkAhNkwMDDljKcTKAgSI5YxwoAgNmDJlJzxiZFNUkkyqk
+0OB1U0ogaIwDjTwwKYMmCgMDTOJEWkltESI7dCQEc4lVbtqPBoKl0iRr1Kkws04cKUK4cIadhhMr
+Xsy4sePHHSIAADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/service_ap_36.gif
+
+R0lGODlhXQARALMAAHBwcPX19ezs7JaWlqCgoHl5eYODg+Li4qmpqby8vMjIyLKysoyMjNnZ2WZm
+Zv///yH5BAAAAAAALAAAAABdABEAAAT/8MlJq7046827/2AojmRpnmiqngqzrE+LKQqHIFTLMEOd
+Dg5AYNV4XXYc5GThICwYDp9J4AD6FAVHoYbV1gKIgiEhEUANXMYjAKyCAQB1w+CWIKoG9dLRkDgY
+BwwJBQ0CQAYHa20DAWwOdUwCBXoABA8LlpWXlggACglRDwYGDQNCTA+gBwEOCQejhQAIDQWWCq23
+ehJMfQ1NvgALAnmlBakOAmYNoMkMfWIPdwIPQASJ1E3XBTiiBFRfDQGoDwINdy9ItwtPDtQGEkq7
+j48F5aFUTgR8DQBbQ/z+Hvia54DbgWoSDjZ5EAzeAF99AoRDdQuBugdIQK1bh1FPvEutnBpcg/jg
+QJON0wIogJNIJUt9DWIaqOcsGgBlNqkVCGCSDIABIMW1Q0IFHSmTNRBYUhUgDgVeFEgyxNFCnCVW
+CTCtaVVlAigFBOI4eBEWyothj4DGAPCoBsU/BmStbcckSEs6/XSB7DNB6sq2JQHMrHdAcIF6GcpN
+K1OIgoAhUSFTOMD3gsQKlUWEi5o5JozPoEOLHk26tOnTqDdEAAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/hd_advertisement.gif
+
+R0lGODlhWgAJALMAAGZmZv///9bW1qysrI+Pj6Ojo+vr64ODg/X19Xl5eXBwcOLi4ri4uMLCwszM
+zJmZmSH5BAAAAAAALAAAAABaAAkAAAT/EMhJq7046807bcIgFULJJEopOYLClOVBls4DwGVBFgAB
+NgfALHfICWNDQaHokMRwgmAlEQgYJINqFaFYBAiHwOImjmUNgqpCWx1kBwqEYYDgnnOEatNRJdyV
+eQEifWxfFmcBQW8pAQVvb2QEE5BpknkCWIJUCAUKmSISgQgAWn6CE4EBVAGfGF4FAQwAkG9UAnwJ
+ZFWYWSEIYz0BmLOndFWyWVrBBoJiX8lVy8LRxKBTVg9W1QANp8xyToJgxGjCnpefCQQJBQiqWQ0E
+lsLMC5Xw8sEhytuHhQd3AiDIxeBYuAZuTImopO9TnjnuFPRyU+BStxfPhFG8pIAZq34VLLwoigVN
+gCQAYRKF0+LmVBob6LYNqGcDmrBLsB7cY2NSWLCPkDwIHUq0aIcIADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/btn_home02.gif
+
+R0lGODlhZAAOALMAAP///0xMk9zX5JoDAwAAZoqKubu71sNpae/v9TExgyEhehERcGZmo5qawnZ2
+raqqzCH5BAAAAAAALAAAAABkAA4AAAT/EMhJq7046827/2AojiQllGiqYsJgCYZxSkiMSEbRSLDQ
+T7EgQqCr9Goz4g4AM9yazKAh1XJVGIQsQ1LIThtZQgCANSQIM0A429VSsA+wAwB2YwmybIIc3peq
+VhRnCGcSCgp4AAoLhASKBF0FE0SIDAWLjYIECA4EO5iFZ3gOCwRbZw8yfwOsgRMECQgKe2BdeWMO
+AQgEi2MVZz5iigsTuwtmaALCmLAEDwsBnmrEKICsFQZrJwEKtrVAYTcUxnSQu74A2WHEtefZ0VhY
+MGviIget1xRdlgQO2Q62bE1ok4jCOwC2HvQbKAbLmIT9ImmJhlBMAUkl7rW64kxhgDteeqIh6PIg
+Wqc5+iABENllyUo8kV6O9BRN3cGaKzS6AnCGwZlO3WpGe4CplBo/E3AORVTPaJmXRDctSJBNQTZJ
+iAA+UKGxQhgFAFWWMVDKk7IxgygYBfAsi0tle5iyLdvgbLYGJJWFwZjinoga9Twg6TB4BYgDhhMr
+phABADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/btn_top02.gif
+
+R0lGODlhZAAOALMAAP///9CKikxMk9nZ6G1tp50KCgAAZoqKub271e/v9SEhejExgxERcJqawqqq
+zPnv7yH5BAAAAAAALAAAAABkAA4AAAT/EMhJq7046827/2AojmRpnmhKDQgyTEmbSMjRSOyQT22f
+DLZKTwa8AVguVeXx2BAMUILkAEUAGlCDAPBELAwvSRZKjVLGhrJB+oRulZJCYfNNfCUKhcGqYNgN
+AHpUBxNAegQHfX+FiWuJfnd6CHphKgFyARoGCwkKC1dpewNaXAIJBn1vFF86pH0VrKNbiqgArEoI
+cnJWFwhjLwIKVAhYhDRZMxSnDKAHp6oAy83Pvgxf0CcPurpNFlSIa77gNXsTarw8pMMOaxS+W+uO
+mwLOStvbF08O7AJtVQIGElBxAPCJFAqDAAAUaMDIlDQKA1JpABCdpXu6MsFa8+WJsIoARx0oYgBo
+U4WKEUUGpIAypJ4EJOEAeBCgps2b3SZkUQCOUBcEJBvKsrVyQkwADoI6lHA0KZQGoz7JlBkj2YcY
+lTBgncq1q8wIADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/tab_490_specialoffers.gif
+
+R0lGODlh6gESAMQAALRERMh1deO6up8QEKwwMKYgINCJifju7vLe3sFlZdaZmbtVVd2qquvOzsx/
+f7I/P+W/v75cXLlQUJkAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAADqARIAAAX/4CSOZGmeaKqubDs+DiXPdG3feK7vfO//wKBwSCwaj8ikcgl0OZ/QKDTG
+rFqv2Kx2y+16mdKweDz9ms/otHrNbs/I8Lh8BHHb7/i8fn+d+/9RD3yDhIWGh2gnAwAAAxMFjAQi
+kI4EjYyMBYuMk5gABJaVAQudBROclKcBCSafI6gApq6cjAMDCQGmJoKIvb6/wME0JwEyABMGMwwT
+xY0UCAU0CwkzBwPFMwYIFAPJMgYTChQL0RQTAtzUMgokBBQCkxQN4RQBABQG0QILFAwFBzIO6CrB
+S5jBgwgTejmBYNuxBuO2EWhGbVS/WskCMKiXQByCABGeTTgwr8GBCdsK/6gDcAABSmsQSVQUQY3d
+NgHFElDThuDaOH4BUBRUSLSo0aM7TFSkcIzCSXQTmW4sUCyoCIgFNrLix47rS1DOXHorpsAdPFwk
+kh1DRiHBABkCpiaDKKnmooG7kOrdy/egCQEfmd5bJoPZOArs0H2bQAMc26BVDR+QNPgcRHSrOAaw
+epWbCKj3Lj9dPGEAQHYrHtTpy7q16zsl7hloVtXdPLJMGdezdy9uvc8UJKFbW+xk5HcIAAJoBhDe
+CJEiCuM+AG+G8wkEIHJWQeW19+/gsZQQNwPAxuX4JLs0O6JqZd0iACKDp/a8bMXnuEUW8Z49On71
+hIbOAAQI4NY7TjiwWrp4DDboYA8kRPPRcNsYABBlMrBCTQObDXAeUNghyF4yC2xkmjk5bTTPfw61
+90xckbXkzjhVFbPAWwzw49gTDnT34I9AhkdCZOJIUA0rpzjlCHlOjYTib5HthB1A9UQzjzhRgQOg
+OI6IwKQA4pDTj24DiAOAjvQ8gxcgbLbp5ptwxinnnHTWaacKsbRAQJdzQHLnn4AGKuighBZq6KGI
+Jqrooow26uijkEYq6aSUVmrppZhmqummnHYqRwgAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/right_nav/tab_comingup03.gif
+
+R0lGODlhBAESAMQcAJkAAP///8h1dbREROO6up8QEKwwMPju7uvOzqYgIMFlZdaZmbtVVfLe3t2q
+qtCJicm/v5wMDK9ZWaImJqxMTMKmpp8ZGcaysrl/f7+ZmbyMjKk/P8zMzAAAAAAAAAAAACH5BAEA
+ABwALAAAAAAEARIAAAX/ICCOZGmeaKqubOu+cIxGGwZxeK7vfO//wKBwqJMZj8ikcimjXIjQqHQ6
+ZFqv2KxWRLlRv+Cwb0sum8+jiEbMbk/R8Lj82HXb7z3WQKAYJQQCBSIGAwMihQYAhAUFA4mEh3wm
+iwkDCY2FJwwChgCNj50ilYWGi40JnoCoc1gTXniwbisKAbUOige1DSINtQC0AQ8AvQW0BAABCL+1
+AQslCAF/AXzMDYIjC8x9xsjK2MzKvXsBDAXQtYmsVxEVse5iKw0H5gEA2QMPAQMFzAAIuQoSBNiV
+LYCBZsPmQSsR4AAAAgazCXAwzU8AAvyOFTzobAQ0RAKnUUxASwCDiuqu/1h49a4lFBUHjz24lcue
+wZMfL0Y76eycgAAKYv4SQGLARWT1oCXI10fETwECb/kEOoLfLhEnpx3YRdERAQYpW7F0SfaHipIW
+jy38SXFBAwIOn3bTaaCkAkAkngqtBXHetwEniSajO8IoM2kIIN7qFZaMhXZlI+dJ8TOU0UDJHk6r
+xQ1ioWYN61XOdWxEV1oPjL59sEoERAD5GBjNVnMEW7wQF+QSXLrxFgljJZdVAbHAz03kZgM4QODn
+gcDLRZPjq9k4Sl4BCmRDTtREZojSsvYG0HVEsp/6jArL7DtLBAlPhEdWQZGBPOsTyR188HNBZaEj
+5SIMRPbpQ0IuA+RSQHh5JmyFE3nRCHhgPYM0g14BBzkgV3tbTCBBBsHJd4cKCXIGQAK9IFTSTwkU
+h1pCmoGVVTbXOMUMUcScgN4BicgTo0XeLMMJexQlUyOHSCZpRCNHOqKEAUeSUEmUKExphQHpKKnl
+llx26eWXYIYp5phklmnmmWiKEAIAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/icons/icon_schedule.gif
+
+R0lGODlhEgAPALMAAP///5kAAOW/v7E9Pct+ftienuzPz/Lf38VubtKOjqstLQAAAAAAAAAAAAAA
+AAAAACH5BAAAAAAALAAAAAASAA8AAARMEABBq7VShsG7H0qQAeJoTqUGDEHrtoSQkoBxVYc8igXh
+/z7KTIT4dAq6zOyE2q1er9iwdqPkpkXjADntAX9CJzOT1FQtiSF03ZJEAAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/show_daytime03a.gif
+
+R0lGODlhiAAPAMQAAJkAAP///7RERMh1deO6uvLe3vju7p8QENaZmawwMKYgIMFlZbtVVdCJievO
+zt2qquW+vrdKSgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAA
+iAAPAAAF/yAgjmRpnmiqrmzrvnAsz3Rt33iu73zv/8DeQUAkJkpDogKQMIqagkhxmlxSAUnBETo9
+Br8oQWBMNgxGAzICIA4YAIqxAUKut891BqBBJgAIdWN+YIQkbQQDAwVjZwCLZAd7Ywt8AQsLAwiC
+iXcAcgFrDm4BfoABiYkLhatsjCJxAQUADGMPrgcGAQ65g62nIp1jmgVxBYCljKisq50iZH9uuLEi
+C3VLwK6+eKeLmgjH0IHLhc1purAFimMCIqaN2L/anqeVAQzgplPjhG2B9pr+1gAwx25Es2CnEsiB
+howUgYe99v3oN6bAAwHSChR5FImgoWwIz3RjGE6cxJMoUwmqXMmypUuVIQAAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/show_primetime03.gif
+
+R0lGODlhcgAPALMAAJkAAP///7RERMh1deO6utaZmfLe3qYgIPju7qwwMNCJibtVVZ8QEOvOzt2q
+qsFlZSH5BAAAAAAALAAAAAByAA8AAAT/EMhJq7046827/2AojmRpnmiqrmxbHkIcJ5NsMwATH0Ai
+8wAbAGbbFWM6Ac23kwiJRddlEKhaEQuAdRtYCKoDAMGqACy2ACo3oOZ+AwQx2Yxuo6UV9UDwqBq0
+AQYDAw5VDm9hYwiBAAoBiwFpVQWDgwKDfoMHVXGKjI6QkgGUlXh5VQJDVQiADTF6iHIEBgEHtAVV
+oqQDQIBxEpyytLajuWq7vaaiXGFrgTpgsri4gsZrqcBwE8FjBNOBastW2Mq6lTSACAQEkHvR3WdV
+CuGwSNva2Z1w8QHz1mwycJQTRe7eL1jvtEFKQK9Kg3Xr0AXLJwvAwoYBHkJEp0xNQYoAHvqMitUN
+ADVR4saB9FXxJEY3A2PKnEmzps2bOEVEAAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/show_weekend03.gif
+
+R0lGODlh4gAPALMAAJkAAP///8h1dbREROO6uqwwMMFlZfju7p8QEKYgIPLe3uvOztCJid2qqrtV
+VdaZmSH5BAAAAAAALAAAAADiAA8AAAT/EMhJq7046827/2AojmRpnmiqrmzrvnAsz3Rt33iuA8kw
+JBIfEOArGn+94wBQ8EmSA4QS6Ss8fQji0TNoVAoEK8VAwJAxUgSDoQGLOQTDRiDYlQqBgBeRfzDz
+DXmCeXSDggAEeUwHhACGhAKCVpEBS48BD1kaBGwUA5UVkRiiF58DaxqmHgF1Gg4HmnYiCgEHAA55
+CgCUBrl0dAOUD791iQEFjAFyjgEKxMGCC7t5ls10xmUZCaAPtQ6mZAoHDpHiUQvNCeXjCIkECN0P
+qAaMBgjoCj2gEvQHBmALBCQQx6pdgHcMCNiaoEzWCAZ5CnSjVSBQAD7W6MgR9guIsWSt/5g50zhN
+EANK1bIBoBVgyIVeUlgpIGAq0qthylhF6lWIXoOdOlkRKKOgQSCgAlRJKNpAwSd/kaIiTSRtwgI/
+DkPgkXkgKiMvj8pQGrTEmKADYsKWpGQs5YS2GUQhcBCIZiVRQ0WxUpeoECICUVmZGuooqUABfZUW
+jvTJwbTFrIRWfasy6wda6BrgQdcwz4IikwgVyWIMZ4CqnkGXRESWWbZPeWJZILXgwAG70P7qFXiA
+lt+8B+MMLrP3R2/B+yCr2h1pKJnKfy2HgJhHTrKLzG4P5URpwfYwxiRwZpNH+9CTihBcr/ao06gA
+RAI48F7zonfmLYMCuA9feCXCQUWyTaFSyQW13EX6xUEYBQR4Id0HW7UEgEVYXQLYJQOE90ceuIRF
+SRCCsFdeHBt8UgAemNWHDnqQ0YIeOgKgWAke201o24UuKtaAbQ2o8olvMmYIXVcPFqmDP7fEGEUU
+OwmAQA9EACHAPwX0YICTSTrGxIlWIEBHFlOemMYEXjo5JgAGGPBDlltSsM0bRsY5A2LvyekBnXbm
+CYMUGECpZxsu/TlBBAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/show_extra03a.gif
+
+R0lGODlhbQAPAMQAAJkAAP///7RERMh1deO6uvju7qYgIPLe3p8QEKwwMN2qqrtVVdaZmcFlZdCJ
+ievOzqUfH92rq6suLgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAABtAA8AAAX/ICCOZGmeaKqubOu+cCzPdG3feK7vfA8ggqBQABGKhJKh0JBQCgwkYSIl
+GFgbUIAhiBBtBd3f4goFCqaAJroJNjSsA4FKEKjbAwJF3Vp/0O97BIB1DiIJdgcnBgeDDAADdXKP
+kQAOgwQIBQEFIg8BiQCaBZCABWgmfwRwAwYInpufCAZWjAFWAoK2A5abIgx3CyakjgkExgikkskN
+dQULAq8MvwEJCHZMddMBUA7GAyipcJIJmpunALkjuUELdQQ/dXoBCibtdgQKrJMBD8a1eXUaeGlm
+bwAzRnwCLHj1iYCDYOAGffvx6kAYEekwDqK2D+A2YeXsFJi1Ec+6EXZCpM37xUyBHk7FBhU68YfB
+El936KmrszOAv3gAag3INXHEl2cNyiVUFmnaxD+JfhU4wKnA1ACOhDyTFyBiQ2ME3sSTVzQjOp4A
+UjEbBGoEqQAOBpQTi0dEsj9w5e4BYA8rAK7Byj0YIK9tCbx3IjRDkCmgxq6PBzas88wjxBG8RH5L
+ZpfSglrNis7dByoBaHfnfOhgk8WFmdYvzEhSTbu27du4dYQAADs=
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/show_close03.gif
+
+R0lGODlhFAAPALMAAJkAAP///+zPz9eamrVFRaAREfnv760xMeS7u9CKisJmZrtVVch2dgAAAAAA
+AAAAACH5BAAAAAAALAAAAAAUAA8AAARSMMgAqr0YTJp73d8mSiGpEcAwCQWAcKC2VCpbCfD0GUeV
+tClTTMK7qIQ6jQRhIQyTEptFAYVKEz0ANSdEBYsuLoxBOAYMCwKuJB4hTZ5MLI6JAAA7
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.foxnews.com/images/top_nav/search_go.gif
+
+R0lGODlhIQAYAMQAAGZmZv///5kAAM/Pz8h1deO6urtVVaYgIPju7sFlZfz8/OvOzvLe3rRERJ8Q
+ENCJiYODg+np6daZmd2qqqwwMPX19czMzOzs7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAA
+AAAALAAAAAAhABgAAAW8YCCOZGmegRINFuC+cCzPADRUA63v8BDxQBpEIUMZR8WiYMlsOpmBZCzw
+rDqjU6V1i4V1X1TmQVIgLMfl5te1BoSXDMQjYI7PE1Cpl0kJPAQFCQd+AnR5WVNMCQEGiowNjIde
+WgIEAZCMlgeWDZJglAUMgAEOE6ITb4V6YEwFCwYBC4ALDggFaqtsTJYICxICiwEIjZ5slAIUDk0H
+Dcq4iHtbVm3UR0a5Qdlt2TxD3N8DF99BNjjW5yYqLCEAOw==
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.foxnews.com/basestyles2003.css
+
+.archivehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.archivehead A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.bioname {
+	FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.bioname A {
+	FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.bioname A:hover {
+	FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.biztimes {
+	FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.blueHed {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.blueHed A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.blueHed A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000066; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.botNav {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.botNav A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.botNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.breaking {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #ffff00; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.breaking A {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #ffff00; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.browserRed {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.cap {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.cap A {
+	FONT-SIZE: 10px; COLOR: #ffcc00; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.capblack {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.capblack A {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consoleheader {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consoleheader A {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consoleheader A:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consolesubhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consolesubheadyell {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consoletxt {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.consoletxt A {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.deck {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.deck A {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.deck A:hover {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.drillNav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.drillNav A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.drillNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.faqmenu {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.faqmenu A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.fox411hed {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.fox411hed A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000066; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.headline {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.headline A {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.headlineblack {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.headlineblack A {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.infohed {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.infohed A {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.market {
+	FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: 11px; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.moreinfo {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.pollheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.polltxt {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.promo {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.promo A {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.schedule {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.searchlink {
+	FONT-SIZE: 14px; COLOR: #336699; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.searchlink A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #336699; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.storytext {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.storytext A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.storytext A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.storytext A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.storytext A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.tablerelated {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.tablerelated A {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.techblack {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.techwhite {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.topNav {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.topic {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: =
+arial,helvetica,sans-serif
+}
+.showNav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.showNav A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: none
+}
+.showNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: arial, =
+helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.uberBlack {
+	FONT-SIZE: 12px; WIDTH: 230px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.uberBlack A {
+	FONT-SIZE: 12px; WIDTH: 230px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.uberRed {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.uberRed A {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.uberRed A:hover {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+.vstext {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.vstext A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.vshead {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: =
+arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.borderRed {
+	BORDER-RIGHT: #990000 1px solid; BORDER-TOP: #990000 1px solid; =
+BORDER-LEFT: #990000 1px solid; BORDER-BOTTOM: #990000 1px solid
+}
+.borderWhite {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; =
+BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+}
+.borderBlack {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; =
+BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+DIV#uberHead {
+	CURSOR: hand
+}
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.foxnews.com/main2003.js?293696022
+
+// Browser Sniffer
+var doCheck =3D (document.all!=3Dnull);
+if (doCheck =3D=3D false) {
+	versionNN =3D navigator.userAgent.toLowerCase();
+	if (versionNN.search(/mozilla\/4/i) !=3D -1)=20
+		browser =3D "NN4";
+	else=20
+		browser =3D "NN6";
+} else {
+	var agt =3D navigator.userAgent.toLowerCase();
+	if ((agt.indexOf("msie") !=3D -1) && (agt.indexOf("opera") =3D=3D -1))=20
+		browser =3D "IE";
+	else=20
+		browser =3D "OP";
+}
+
+// Image Preloader
+navimgNames =3D new Array(
+	"/images/top_nav/nav_on_business03.gif",
+	"/images/top_nav/nav_on_foxfan03.gif",
+	"/images/top_nav/nav_on_centralBug03.gif",
+	"/images/top_nav/nav_on_foxlife03.gif",
+	"/images/top_nav/nav_on_foxpolls03.gif",
+	"/images/top_nav/nav_on_foxsports03.gif",
+	"/images/top_nav/nav_on_politics03.gif",
+	"/images/top_nav/nav_on_shows03.gif",
+	"/images/top_nav/nav_on_topstories03.gif",
+	"/images/top_nav/nav_on_views03.gif",
+	"/images/top_nav/nav_on_weather03.gif",
+	"/images/top_nav/nav_on_fea_oreillyfactor03.gif",
+	"/images/top_nav/nav_on_fea_yourworld03.gif",
+	"/images/top_nav/nav_on_fea_realestate03.gif",
+	"/images/top_nav/nav_on_fea_jobs03.gif"
+)
+loadNavImgs =3D new Array();
+for(i=3D0; i < navimgNames.length; i++) {
+  loadNavImgs[i] =3D new Image;
+  loadNavImgs[i].src =3D navimgNames[i];
+}
+
+// Rollover/out
+function rollOver(name) {
+	document.images[name].src =3D "/images/top_nav/nav_on_"+name+"03.gif";
+}
+function rollOut(name) {
+	document.images[name].src =3D "/images/top_nav/nav_off_"+name+"03.gif";
+}
+
+// Hide/Show Layer Scripts for Shows Div
+function getLayer(id) {       =20
+   	if (browser =3D=3D "IE" || browser =3D=3D "OP")
+   		return document.all[id];
+	else if (browser =3D=3D "NN4")
+		return document.layers[id];
+	else
+		return document.getElementById(id);
+}
+function showLayer(id) {       =20
+   var get =3D getLayer(id)
+   if (get !=3D null)         =20
+     	if (browser !=3D "NN4")
+         	get.style.visibility =3D "visible";
+      	else
+         	get.visibility =3D "show";
+}
+function hideLayer(id) {
+	var get =3D getLayer(id)       =20
+	if (get !=3D null)       =20
+      if (browser !=3D "NN4")
+         get.style.visibility =3D "hidden";
+      else
+         get.visibility =3D "hide";
+}
+function closeShows() {
+	hideLayer('showsDiv');
+	rollOut('fncshows');
+}
+function openShows() {
+	showLayer('showsDiv');
+	rollOver('fncshows');
+}
+
+// Daughter Window Script
+function pop(mypage, myname, w, h, scroll, menu) {
+	var winl =3D (screen.width - w) / 2;
+	var wint =3D (screen.height - h) / 2;
+	winprops =3D =
+'height=3D'+h+',width=3D'+w+',top=3D'+wint+',left=3D'+winl+',scrollbars=3D=
+'+scroll+',resizable=3Dno';
+	if (menu=3D=3D'yes')
+		winprops +=3D ',menubar=3Dyes,toolbar=3Dyes,locationbar=3Dyes';
+	=09
+	win =3D window.open(mypage, myname, winprops);
+	  if ((window.navigator.appName.indexOf("Microsoft")=3D=3D0) &
+	      (window.navigator.appVersion.substring(0,1)=3D=3D"4"))
+	  {
+	    damnBrowser =3D 1;
+	  }
+	  else if ((window.navigator.appName.indexOf("Netscape")=3D=3D0) &
+	           (window.navigator.appVersion.substring(0,1)=3D=3D"4"))
+	  {
+	    damnBrowser =3D 1;
+	  }
+	  else if =
+(parseFloat(navigator.appVersion.substring(0,navigator.appVersion.indexOf=
+("")))>=3D3.0)
+	  {
+	    if ((window.navigator.appName.indexOf("Microsoft")=3D=3D"0") &
+	        (window.navigator.userAgent.indexOf("Mac")>=3D0) & =
+(parseFloat(navigator.appVersion.substring(0,navigator.appVersion.indexOf=
+("")))<4.0))
+	    { }
+	    else
+	    {
+	      win.focus();
+	    }
+	}
+}
+
+// E-mail Address Validator
+function isEmail(email) {
+	emailArray =3D new Array ();
+	if (email.search(/,/g) =3D=3D -1 && email.search(/ /g) =3D=3D -1) {
+		emailArray[0] =3D email;
+	} else if (email.search(/,/g) !=3D -1) {
+		emailArray =3D email.split(',');
+	} else {
+		return false
+	}
+	for (n=3D0;n<emailArray.length;n++) {
+		emailAdd =3D emailArray[n].replace(/ /, "");
+		atPos =3D emailAdd.indexOf("@");=20
+		dotPos =3D emailAdd.lastIndexOf(".");
+		lastPos =3D emailAdd.length-1;
+		if (atPos < 1 || dotPos-atPos < 2 || lastPos-dotPos<2 || =
+emailAdd.search(/ /g) !=3D -1) {
+			return false;
+			break;
+		} else {
+			emailValidate =3D true;
+		}
+	}
+	return emailValidate;
+}
+
+// Map Pop Script to launch daughter win w/ image
+function mapPop(imageUrl,title,w,h) {
+	if (doCheck && navigator.platform =3D=3D "MacPPC"){
+		w =3D w - 16;
+		h =3D h - 16;
+	}
+	var dimensions =3D "width=3D"+w+",height=3D"+h;=20
+	var winName =3D title.replace(/ /g,"");=20
+	var title =3D title+" -- FOXNews.com";=20
+	var win =3D window.open("",winName,dimensions);=20
+	var d =3D win.document;=20
+	d.writeln("<html>");=20
+	d.writeln("<head><title>"+title+"</title></head>");=20
+	d.writeln("<body marginheight=3D0 marginwidth=3D0 topmargin=3D0 =
+leftmargin=3D0 onLoad=3Dwindow.focus();>");=20
+	d.writeln("<img src=3D"+imageUrl+" border=3D0>");=20
+	d.writeln("</body>");=20
+	d.writeln("</html>");=20
+	d.close();=20
+}
+
+// Video Player Launch Scripts (old & new)
+function videoPlayer(vidName,headline){
+	var vidUrl =3D "/video/get_cookie.htm?"+vidName+"&"+headline;
+	pop(vidUrl,'vidPlayer',340,480,'no','no');
+}
+function videoPlayerNew(vidID,headline){
+	headline =3D escape(headline);
+	var vidUrl =3D =
+"http://www.foxnews.com/video2/get_cookie.htm?"+vidID+"&"+headline;
+	pop(vidUrl,'vidPlayer',340,480,'no','no');
+}
+
+// Reloads NN4 onResize to fix NN4/Uber-bug conflict
+function nn4Reload() {
+	if (browser =3D=3D "NN4") {
+		location.reload();
+	}
+}
+
+// E-Comp form submission scripts
+var action=3D "none";
+function seteCompAction(button) {
+	if (button =3D=3D "coName") {
+		document.images['coName'].src =3D =
+"/images/ecp/ecomp_co_name03_on.gif";
+		document.images['coSymbol'].src =3D =
+"/images/ecp/ecomp_co_symbol03_off.gif";
+	} else {
+		document.images['coSymbol'].src =3D =
+"/images/ecp/ecomp_co_symbol03_on.gif";
+		document.images['coName'].src =3D =
+"/images/ecp/ecomp_co_name03_off.gif";
+	}
+	action =3D button;
+}
+function eCompSubmit() {
+	submitUrl =3D "http://www.ecomponline.com/Ecomp/foxnews/";
+	if (document.eCompForm.defaultText.value =3D=3D "") {
+		alert("You must enter a company name or symbol to continue.");
+	} else {
+		if (action =3D=3D "none") {
+			alert("You must select your type of search before you can =
+continue.");
+		} else if (action =3D=3D "coName") {
+			window.location =3D =
+submitUrl+"companies.tcl?dir=3Dfoxnews&compname=3D"+document.eCompForm.de=
+faultText.value;
+		} else if (action =3D=3D "coSymbol") {
+			window.location =3D =
+submitUrl+"company.tcl?dir=3Dfoxnews&symbol=3D"+document.eCompForm.defaul=
+tText.value;
+		}
+	}
+	return false;
+}
+
+// Poll Scripts
+var pollAnswer =3D "none";
+function new_poll_answer(answerPassed,type){
+	if (type =3D=3D "story") {
+		imageFile =3D "btn_radio";
+	} else {
+		imageFile =3D "btn_con_radio";
+	}
+	if (pollAnswer !=3D "none") {
+		document.images[imgName].src =3D "/images/poll/"+imageFile+"_off.gif";
+	}
+	pollAnswer =3D answerPassed;
+	imgName =3D "answer"+answerPassed;
+	document.images[imgName].src =3D "/images/poll/"+imageFile+"_on.gif";
+}
+function new_popup_results(pollID,format) {
+	resultsUrl =3D =
+"http://www2.foxnews.com/polls/poll_results/bg_results_"+format+".jpg__ba=
+sic_"+pollID+".htm";
+	pop(resultsUrl,'pollVote','550','400','no','no');
+}
+function new_submit_vote(pollID,format) {
+	if (pollAnswer =3D=3D "none") {
+		alert("You must vote to submit this poll.");
+	} else {
+		voteUrl =3D =
+"http://www2.foxnews.com/polls/view.asp?pollid=3D"+pollID+"&format=3D"+fo=
+rmat+"&answer=3D"+pollAnswer;
+		pop(voteUrl,'pollVote','550','400','no','no');
+	}
+}
+
+// Photo Pop Script for Story Pages
+function photoPop(photo,caption,credit,width) {
+	var w =3D 440;
+	var h =3D 375;
+	if (doCheck && navigator.platform =3D=3D "MacPPC"){
+		w =3D w - 16;
+		h =3D h - 16;
+	}
+	var winl =3D (screen.width - w) / 2;
+	var wint =3D (screen.height - h) / 2;
+	var dimensions =3D =
+'height=3D'+h+',width=3D'+w+',top=3D'+wint+',left=3D'+winl+',resizable=3D=
+\'no\'';
+	if (width =3D=3D 300) {
+		var leftGut =3D 105;
+		var topGut =3D 50;
+		var rightCol =3D 335;
+		var height =3D 200;
+	} else {
+		var leftGut =3D 160;
+		var topGut =3D 10;
+		var rightCol =3D 280;
+		var height =3D 300;
+	}
+	if (caption.search(/%5C/g) !=3D -1) {caption =3D =
+caption.replace(/%5C/g,"");}
+	if (credit.search(/%5C/g) !=3D -1) {credit =3D =
+credit.replace(/%5C/g,"");}
+	var win =3D window.open('','foxPhoto',dimensions);=20
+	var d =3D win.document;=20
+	d.writeln("<html>");=20
+	d.writeln("<head>");
+	d.writeln("<title>FOXNews.com</title>");
+	d.writeln("<LINK REL=3DSTYLESHEET TYPE=3D\"text/css\" =
+HREF=3D\"/basestyles2003.css\">");=20
+	d.writeln("</head>");=20
+	d.writeln("<body marginheight=3D0 marginwidth=3D0 topmargin=3D0 =
+leftmargin=3D0 background=3D\"/images/bg_photo_popup.gif\" =
+onLoad=3D\"window.focus();\">");=20
+	d.writeln("<table cellpadding=3D0 cellspacing=3D0 border=3D0 =
+width=3D440>");
+	d.writeln("<tr>");
+	d.writeln("<td><img src=3D\"/images/clear_dot.gif\" width=3D"+leftGut+" =
+height=3D"+topGut+"></td>");
+	d.writeln("<td><img src=3D\"/images/clear_dot.gif\" =
+width=3D"+rightCol+" height=3D"+topGut+"></td>");
+	d.writeln("</tr>");
+	d.writeln("<tr>");
+	d.writeln("<td><img src=3D\"/images/clear_dot.gif\" width=3D"+leftGut+" =
+height=3D10></td>");
+	d.writeln("<td valign=3D\"top\">");
+	d.writeln("<table cellpadding=3D0 cellspacing=3D0 border=3D0 =
+width=3D"+width+">");
+	d.writeln("<tr><td><img src=3D\"/images/"+photo+"\" border=3D0 =
+width=3D"+width+" height=3D"+height+"></td></tr>");
+	if (credit !=3D "") {d.writeln("<tr><td class=3D\"capblack\" =
+align=3D\"right\">"+credit+"</td></tr>");}
+	if (caption !=3D "") {d.writeln("<tr><td =
+class=3D\"capblack\">"+caption+"</td></tr>");}
+	d.writeln("</table>");
+	d.writeln("</td>");
+	d.writeln("</tr>");
+	d.writeln("</table>");
+	d.writeln("</body>");=20
+	d.writeln("</html>");=20
+	d.close();=20
+}
+
+// FOX Fan Recognition Scripts
+function getNameFromCookie() {
+	var name =3D "";=20
+    var crumb=3Dunescape(document.cookie);
+    if (crumb.indexOf("foxnews=3D") !=3D -1) {=20
+		var start =3D crumb.indexOf("foxnews=3D") + 8;
+		var end =3D crumb.indexOf(";", start);
+		if (end =3D=3D -1)
+			var end =3D crumb.length;
+		var thisCookie =3D crumb.substring(start,end);
+		var cookAry =3D thisCookie.split("|");
+		if (cookAry.length > 4) {
+			var name =3D cookAry[4];
+		}
+	}
+	return name;
+}
+function regWinHeight() {
+	macPlat =3D false;
+	if (navigator.platform =3D=3D "MacPPC") {macPlat =3D true;}
+	if (browser =3D=3D "NN6") {
+		ht =3D 385;
+	} else if (browser =3D=3D "NN4" && !macPlat) {
+		ht =3D 405;
+	} else if (browser =3D=3D "NN4" && macPlat) {
+		ht =3D 355;
+	} else if (browser =3D=3D "OP") {
+		ht =3D 375;
+	} else {
+		ht =3D 395;
+	}
+	return ht;
+}
+function ffRegister(page) {
+	ht =3D regWinHeight();
+	if (page =3D=3D "register") {
+		regUrl =3D "http://www3.foxnews.com/foxfanv3/reg_screen1.asp";
+	} else {
+		regUrl =3D =
+"http://www3.foxnews.com/foxfanv3/reg_screen1.asp?type=3Dmodify";
+	}
+	pop(regUrl,'foxfanReg',730,ht,'no','no');
+}
+function ffImage() {
+	if (getNameFromCookie() !=3D "") {
+		document.writeln("<td><a href=3D\"/foxfan/index.html\" =
+onMouseover=3D\"rollOver('centralBug');\" =
+onMouseout=3D\"rollOut('centralBug');\"><img =
+src=3D\"/images/top_nav/nav_off_centralBug03.gif\" name=3D\"centralBug\" =
+border=3D0 width=3D85 height=3D72></a></td>");
+	} else {
+		document.writeln("<td><a href=3D\"/foxfan/index.html\" =
+onMouseover=3D\"rollOver('foxfan');\" =
+onMouseout=3D\"rollOut('foxfan');\"><img =
+src=3D\"/images/top_nav/nav_off_foxfan03.gif\" name=3D\"foxfan\" =
+border=3D0 width=3D85 height=3D72></a></td>");
+	}
+}
+function ffMember() {
+	if (getNameFromCookie() !=3D "") {
+		document.writeln("<div class=3D\"uberRed\" =
+style=3D\"width:159px;\"><b>Welcome =
+"+getNameFromCookie()+"</b></div><div class=3D\"capblack\" =
+style=3D\"line-height: 10px;\"><a =
+href=3D\"javascript:ffRegister('register');\">Not You? Click =
+Here.</a></div>");
+	} else {
+		document.writeln("<div class=3D\"uberRed\" style=3D\"width:159px;\"><a =
+href=3D\"/foxfan/\"><b>FOX Fans Log on Here</b></a></div><div =
+class=3D\"capblack\" style=3D\"line-height: 10px;\"><a =
+href=3D\"/foxfan/\">or Register Now.</a></div>");
+	}
+}
+// FoxFan Video Player for Non-FoxFan Pages
+function foxfanVideoPlayer(vidID,headline) {
+	if (getNameFromCookie() !=3D "") {
+		videoPlayerNew(vidID,headline);
+	} else {
+		ht =3D regWinHeight();
+		headline =3D headline.replace(/ /g,"_");
+		regUrl =3D =
+"http://www3.foxnews.com/foxfanv3/reg_screen1.asp?type=3Dvideo&videoId=3D=
+"+vidID+"&vidHead=3D"+headline;
+		pop(regUrl,'foxfanReg',730,ht,'no','no');
+	}
+}
+
+function emailFriend()
+{
+    if (document.emailFriend.byline.value =3D=3D "none")
+    {
+        document.emailFriend.byline.value =3D "FOXNews";
+    }
+    if (window.location =3D=3D =
+"http://www.foxnews.com/story/0,2933,18502,00.html" || window.location =
+=3D=3D "http://www.foxnews.com/story/0,2933,20055,00.html")
+    {
+        document.emailFriend.date.value =3D "";
+    }
+    document.emailFriend.url.value =3D window.location;
+    document.emailFriend.submit();
+}
+
+function foxnews_setHomePage() {
+	if (browser =3D=3D 'IE') {
+		version =3D navigator.appVersion.toLowerCase();
+		if (( version.search (/macintosh/) =3D=3D -1)
+		&& (version.search (/msie 4/) =3D=3D -1))
+		{
+			=
+makehome.style.behavior=3D'url(#default#homepage)';makehome.setHomePage("=
+http://www.foxnews.com");
+		}
+		else {
+			window.location =3D "/story/0,2933,80231,00.html";
+		}
+	}
+	else {
+		window.location =3D "/story/0,2933,80231,00.html";
+	}
+}
+
+// Scroll Function for Search Text Box
+searchInt =3D -1;
+scrolling =3D true;
+function searchScroll(state) {
+	if (scrolling) {
+		if (state =3D=3D 'ongoing') {
+			textBox =3D document.searchForm.ext_qkw.value;
+			newBox =3D textBox.slice(1,(textBox.length));
+			document.searchForm.ext_qkw.value =3D newBox+textBox.charAt(0);
+			searchInt =3D setTimeout("searchScroll('ongoing')", 400);
+		} else {
+			//document.searchForm.ext_qkw.value =3D " FOX News and Web: sources =
+include Google, Ask Jeeves, WebCrawler. . .";
+			searchInt =3D setTimeout("searchScroll('ongoing')", 3000);
+		}
+	}
+}
+// Search Validation Script Below
+function searchSub() {
+	if (scrolling || document.searchForm.ext_qkw.value.length =3D=3D 0) {
+		alert("Please enter text into the text field.");
+		return false;
+	} else {
+		return true;
+	}
+}
+function searchFocus() {
+	if (scrolling) {
+		document.searchForm.ext_qkw.value=3D'';
+		scrolling =3D false;
+		if (searchInt!=3D-1) {
+			clearTimeout(searchInt);
+		}
+	}
+}
+
+------=_NextPart_000_0000_01C33EF8.3A47EE70--
