@@ -6,14 +6,6 @@ prepared January 30, 2003 by Jason Abbott
 ## User Interface
 Accurate product information and on-time deliveries are the customer’s basic expectation.  Hence, though important, they are less likely to set us apart from our competitors.  The differentiator is site design and functionality.  The current design, implemented in January of 2002, adheres to rules meant to ensure intuitive navigation and comprehension of page elements.  Based on customer and press feedback, these rules have been very successful.
 
-
-> Compared to Safeway, Albertsons “has a much easier Web site to navigate. There are drop-down menus for finding items by either category or name, a much quicker solution than waiting for successive pages to load on the Safeway site.” — Mike Langberg, Mercury News, March 27, 2002
-
-> After placing orders from both sites, “I came to some obvious conclusions: Safeway needs to revamp its online presentation, borrowing ideas generously from the superior Albertsons site.” — Mike Langberg
-
-> “This reporter decided to test the two Internet stores to see if they lived up to their billing. What I found are two polar opposites: one was relatively smooth, the other suffering an array of shortcomings … I had no choice but to declare Albertsons the winner in this competition”
-— Verne Kopytoff, San Francisco Chronicle, May 20, 2002 
-
 Site usability will be correlated with the intelligibility of navigation elements.  A problem with the previous site design was an apparent lack of organization and consistency with these elements.  Shopping links were scattered around the page, intermixed with links for managing one’s own account.
 
 ### Home Page
