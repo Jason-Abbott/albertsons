@@ -5,14 +5,14 @@ I was team lead for front-end e-commerce development in 2002 when we took the in
 - Created: **2002**
 - Platform: Active Server Pages, VB6, COM+, Commerce Server
 
-I pitched the idea to our VP who agreed only if we committed to being done in a month. A month! But we were motivated so I agreed. It took some long hours but we pulled it off.
+I pitched the idea to our VP who agreed only if we committed to being done in a month. A month! But we were motivated so I agreed. It took some long hours but our team pulled it off.
 
 # Innovations
 ## Architecture
 We restructured the HTML and Javascript to improve interactivity with minimal page reposts (remember this was pre-AJAX). We also improved the data access layer with caching and in some cases removed a "business layer" that had no purpose except to satisfy an idea of how many tiers an application should have.
 
 ## Design
-The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish tasks. See the `screens` folder for more samples but highlights include &hellip;
+The biggest changes were to the user interface, UX. I personally created the new designs, mocked them in Photoshop and implemented the HTML and CSS. I focused on minimizing the number of clicks required to accomplish any task. See the `screens` folder for more samples but highlights include &hellip;
 
 #### An always-visible, interactive cart
 ![Cart](./screens/Cart_Detail.png)
